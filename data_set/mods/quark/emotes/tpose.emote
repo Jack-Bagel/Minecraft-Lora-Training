@@ -1,0 +1,17 @@
+use head
+use left_arm
+use right_arm
+
+tier 1
+
+animation sequence
+    section parallel
+        move left_arm_z 400 -1.57
+        move right_arm_z 400 1.57
+
+        move head_x 400 0
+        move head_y 400 0
+        move head_z 400 0
+    end
+    yoyo 1 600000
+end

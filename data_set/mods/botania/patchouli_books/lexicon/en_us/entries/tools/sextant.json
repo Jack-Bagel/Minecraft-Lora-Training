@@ -1,0 +1,21 @@
+{
+  "name": "botania.entry.sextant",
+  "category": "botania:tools",
+  "icon": "botania:sextant",
+  "advancement": "botania:main/mana_pool_pickup_lexicon",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.sextant0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.sextant1"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.sextant2",
+      "recipe": "botania:sextant"
+    }
+  ]
+}

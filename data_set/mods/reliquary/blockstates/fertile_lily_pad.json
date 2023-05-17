@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "reliquary:block/fertile_lily_pad" },
+      { "model": "reliquary:block/fertile_lily_pad", "y": 90 },
+      { "model": "reliquary:block/fertile_lily_pad", "y": 180 },
+      { "model": "reliquary:block/fertile_lily_pad", "y": 270 }
+    ]
+  }
+}

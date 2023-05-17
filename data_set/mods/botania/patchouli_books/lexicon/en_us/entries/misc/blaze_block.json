@@ -1,0 +1,16 @@
+{
+  "name": "botania.entry.blazeBlock",
+  "category": "botania:misc",
+  "icon": "botania:blaze_block",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.blazeBlock0"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.blazeBlock1",
+      "recipe": "botania:blaze_block"
+    }
+  ]
+}

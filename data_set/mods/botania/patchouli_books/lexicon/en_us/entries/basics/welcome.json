@@ -1,0 +1,33 @@
+{
+  "name": "botania.entry.welcome",
+  "category": "botania:basics",
+  "icon": "botania:cosmetic_questgiver_mark",
+  "priority": true,
+  "sortnum": -10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.welcome0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.welcome1"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.welcome2"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.welcome3"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.welcome5"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.welcome6"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "down=true": {
+      "model": "iceandfire:block/myrmex_biolight_jungle"
+    },
+    "down=false": {
+      "model": "iceandfire:block/myrmex_biolight_jungle_bottom"
+    }
+  }
+}

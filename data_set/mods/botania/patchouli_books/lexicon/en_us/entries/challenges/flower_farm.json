@@ -1,0 +1,15 @@
+{
+  "name": "botania.challenge.flowerFarm",
+  "category": "botania:challenges",
+  "icon": "botania:pink_mystical_flower",
+  "read_by_default": true,
+  "advancement": "botania:main/mana_pool_pickup_lexicon",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "quest",
+      "title": "botania.challenge.flowerFarm",
+      "text": "botania.challenge.flowerFarm.desc"
+    }
+  ]
+}

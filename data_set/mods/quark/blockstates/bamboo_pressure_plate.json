@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "quark:block/bamboo_pressure_plate" },
+    "powered=true": { "model": "quark:block/bamboo_pressure_plate_down" }
+  }
+}

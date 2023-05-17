@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "enderscape:block/veradite_brick_slab"
+    },
+    "type=double": {
+      "model": "enderscape:block/veradite_bricks"
+    },
+    "type=top": {
+      "model": "enderscape:block/veradite_brick_slab_top"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "nethersdelight:item/plate_of_stuffed_hoglin_snout"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "quark:block/bamboo_block_top",
+        "side": "quark:block/bamboo_block"
+    }
+}

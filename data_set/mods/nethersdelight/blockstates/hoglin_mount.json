@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "nethersdelight:block/hoglin_mount",
+	"y": 90
+    },
+    "facing=north": {
+      "model": "nethersdelight:block/hoglin_mount"
+    },
+    "facing=south": {
+      "model": "nethersdelight:block/hoglin_mount",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nethersdelight:block/hoglin_mount",
+      "y": 270
+    }
+  }
+}

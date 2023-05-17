@@ -1,0 +1,21 @@
+{
+  "name": "botania.entry.orechidIgnem",
+  "category": "botania:functional_flowers",
+  "icon": "botania:orechid_ignem",
+  "entry_color": "aa00",
+  "advancement": "botania:main/elf_lexicon_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.orechidIgnem0"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "text": "botania.page.orechidIgnem1",
+      "recipe": "botania:petal_apothecary/orechid_ignem"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:floating_orechid_ignem": 1
+  }
+}

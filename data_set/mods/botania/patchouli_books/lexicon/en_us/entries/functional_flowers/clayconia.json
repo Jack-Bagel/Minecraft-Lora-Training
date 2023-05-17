@@ -1,0 +1,20 @@
+{
+  "name": "botania.entry.clayconia",
+  "category": "botania:functional_flowers",
+  "icon": "botania:clayconia",
+  "advancement": "botania:main/runic_altar_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.clayconia0"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "text": "botania.page.clayconia1",
+      "recipe": "botania:petal_apothecary/clayconia"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:floating_clayconia": 1
+  }
+}

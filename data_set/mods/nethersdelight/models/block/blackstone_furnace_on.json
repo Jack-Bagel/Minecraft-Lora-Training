@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "nethersdelight:block/blackstone_furnace_top",
+    "front": "nethersdelight:block/blackstone_furnace_front_on",
+    "side": "nethersdelight:block/blackstone_furnace_side"
+  }
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/flower_pot_cross",
+	"textures": {
+		"plant": "enderscape:block/celestial_growth_potted"
+	}
+}

@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "facing=east,part=head,occupied=false": {
+      "y": 270,
+      "model": "druidcraftrg:block/bedrolls/green_bedroll_top"
+    },
+    "facing=east,part=head,occupied=true": {
+      "y": 270,
+      "model": "druidcraftrg:block/bedrolls/green_bedroll_top_open"
+    },
+	"facing=east,part=foot,occupied=false": {
+      "y": 270,
+      "model": "druidcraftrg:block/bedrolls/green_bedroll_bottom"
+    },
+    "facing=east,part=foot,occupied=true": {
+      "y": 270,
+      "model": "druidcraftrg:block/bedrolls/green_bedroll_bottom_open"
+    },
+	"facing=north,part=head,occupied=false": {
+      "y": 180,
+      "model": "druidcraftrg:block/bedrolls/green_bedroll_top"
+    },
+    "facing=north,part=head,occupied=true": {
+      "y": 180,
+      "model": "druidcraftrg:block/bedrolls/green_bedroll_top_open"
+    },
+	"facing=north,part=foot,occupied=false": {
+      "y": 180,
+      "model": "druidcraftrg:block/bedrolls/green_bedroll_bottom"
+    },
+    "facing=north,part=foot,occupied=true": {
+      "y": 180,
+      "model": "druidcraftrg:block/bedrolls/green_bedroll_bottom_open"
+    },
+	"facing=south,part=head,occupied=false": {
+      "model": "druidcraftrg:block/bedrolls/green_bedroll_top"
+    },
+    "facing=south,part=head,occupied=true": {
+      "model": "druidcraftrg:block/bedrolls/green_bedroll_top_open"
+    },
+	"facing=south,part=foot,occupied=false": {
+      "model": "druidcraftrg:block/bedrolls/green_bedroll_bottom"
+    },
+    "facing=south,part=foot,occupied=true": {
+      "model": "druidcraftrg:block/bedrolls/green_bedroll_bottom_open"
+    },
+	"facing=west,part=head,occupied=false": {
+      "y": 90,
+      "model": "druidcraftrg:block/bedrolls/green_bedroll_top"
+    },
+    "facing=west,part=head,occupied=true": {
+      "y": 90,
+      "model": "druidcraftrg:block/bedrolls/green_bedroll_top_open"
+    },
+	"facing=west,part=foot,occupied=false": {
+      "y": 90,
+      "model": "druidcraftrg:block/bedrolls/green_bedroll_bottom"
+    },
+    "facing=west,part=foot,occupied=true": {
+      "y": 90,
+      "model": "druidcraftrg:block/bedrolls/green_bedroll_bottom_open"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "item.or.overrite": "Overite Scrap",
+  "block.or.overrite_ore": "Overrack ",
+  "block.or.overrite_block": "Overite Block",
+  "item.or.overrite_diamond": "Overite Ingot",
+  "itemGroup.overrite_tab": "Overrack",
+
+  "item.or.gliron_sword": "Gliron Sword",
+  "item.or.gliron_pickaxe": "Gliron Pickaxe",
+  "item.or.gliron_axe": "Gliron Axe",
+  "item.or.gliron_shovel": "Gliron Shovel",
+  "item.or.gliron_hoe": "Gliron Hoe",
+
+  "item.or.overrite_sword": "Overite Sword",
+  "item.or.overrite_pickaxe": "Overite Pickaxe",
+  "item.or.overrite_axe": "Overite Axe",
+  "item.or.overrite_shovel": "Overite Shovel",
+  "item.or.overrite_hoe": "Overite Hoe",
+
+  "item.or.gliron_helmet": "Gliron Helmet",
+  "item.or.gliron_chestplate": "Gliron ChestPlate",
+  "item.or.gliron_leggings": "Gliron Leggings",
+  "item.or.gliron_boots": "Gliron Boots",
+
+  "item.or.overrite_helmet": "Overite Helmet",
+  "item.or.overrite_chestplate": "Overite ChestPlate",
+  "item.or.overrite_leggings": "Overite Leggings",
+  "item.or.overrite_boots": "Overite Boots",
+  "item.or.ov_bow": "Overite Bow",
+
+  "item.or.overrite_apple": "Overite Apple",
+
+  "advancements.overack.root.title" : "Over World",
+  "advancements.overack.root.description" : "What secrets this world has buried",
+  "advancements.overack.gliron_tools.title": "A gliron pick",
+  "advancements.overack.gliron_tools.description": "Gold and Iron better together",
+  "advancements.overack.obtain_overrite_ore.title": "The heart of earth",
+  "advancements.overack.obtain_overrite_ore.description": "Obtain Overrack",
+  "advancements.overack.gliron_chestplate.title": "Gliron armor",
+  "advancements.overack.gliron_chestplate.description": "protect your self with new armor",
+  "advancements.overack.overrite_armor.title": "Cover me with Overite",
+  "advancements.overack.overrite_armor.description": "Full set of Overite armor",
+  "advancements.overack.overrite_tools.title": "This pick is perfect",
+  "advancements.overack.overrite_tools.description": "Upgrade your tools"
+}

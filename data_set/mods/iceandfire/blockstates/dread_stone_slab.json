@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "iceandfire:block/dread_stone_slab"
+    },
+    "type=top": {
+      "model": "iceandfire:block/dread_stone_upper_slab"
+    },
+    "type=double": {
+      "model": "iceandfire:block/dread_stone_bricks"
+    }
+  }
+}

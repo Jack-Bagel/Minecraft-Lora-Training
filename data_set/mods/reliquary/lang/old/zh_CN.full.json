@@ -1,0 +1,32 @@
+{
+
+
+
+
+
+
+
+    "reliquary.title1": "圣遗物设置",
+
+    "jei.reliquary.recipe.cauldron_splash": "药师坩埚",
+
+
+    "reliquary.waila.reliquary.mortar.ingredients": "配方：",
+    "reliquary.waila.reliquary.mortar.result": "导致药水效果：",
+    "reliquary.waila.reliquary.cauldron.missing_netherwart": "缺少地狱疣",
+    "reliquary.waila.reliquary.cauldron.missing_gunpowder": "缺少火药",
+    "reliquary.waila.reliquary.cauldron.lingering": "滞留型药水",
+    "reliquary.waila.reliquary.cauldron.splash": "喷溅型药水",
+    "reliquary.waila.reliquary.cauldron.potion": "药水",
+    "reliquary.waila.reliquary.altar.inactive": "闲置",
+    "reliquary.waila.reliquary.altar.active": "运行中",
+    "reliquary.waila.reliquary.altar.time_remaining": "持续时间：%s",
+    "reliquary.waila.reliquary.shift_for_more": "按住 Shift 查看更多详细信息",
+
+
+
+    "fluid.reliquary.xpjuice": "经验汁",
+    "fluid.milk": "牛奶",
+
+    "reliquary.potion.flight": "漂浮"
+}

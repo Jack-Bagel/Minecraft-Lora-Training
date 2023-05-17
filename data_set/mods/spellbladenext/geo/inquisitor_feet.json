@@ -1,0 +1,43 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 92,
+				"texture_height": 92,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "bipedLeftLeg",
+					"pivot": [-2, 12, 0]
+				},
+				{
+					"name": "armorLeftBoot",
+					"parent": "bipedLeftLeg",
+					"pivot": [-2, 12, 0],
+					"cubes": [
+						{"origin": [0, 0, 3], "size": [4, 2, 2], "inflate": 0.75, "pivot": [2, 4, 0.5], "rotation": [-180, 0, 180], "uv": [80, 76], "mirror": true},
+						{"origin": [0, 0, -1], "size": [4, 4, 4], "inflate": 0.76, "pivot": [2, 4, 0.5], "rotation": [-180, 0, 180], "uv": [76, 84], "mirror": true}
+					]
+				},
+				{
+					"name": "bipedRightLeg",
+					"pivot": [2, 12, 0]
+				},
+				{
+					"name": "armorRightBoot",
+					"parent": "bipedRightLeg",
+					"pivot": [2, 12, 0],
+					"cubes": [
+						{"origin": [-4, 0, -1.55], "size": [4, 4, 4], "inflate": 0.75, "pivot": [-2, 4, 0.2], "rotation": [-180, 0, 180], "uv": [76, 84]},
+						{"origin": [-4, 0, 2.45], "size": [4, 2, 2], "inflate": 0.75, "pivot": [-2, 4, 0.2], "rotation": [-180, 0, 180], "uv": [80, 76]}
+					]
+				}
+			]
+		}
+	]
+}

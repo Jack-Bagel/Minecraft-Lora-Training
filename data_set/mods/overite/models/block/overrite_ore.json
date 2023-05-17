@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "or:blocks/overrack_top",
+    "side": "or:blocks/overrack_side"
+  }
+}

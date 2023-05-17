@@ -1,0 +1,53 @@
+{
+  "name": "botania.entry.rainbowRod",
+  "category": "botania:tools",
+  "icon": "botania:rainbow_rod",
+  "entry_color": "aa00",
+  "advancement": "botania:main/elf_lexicon_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.rainbowRod0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.rainbowRod1"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.rainbowRod6"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.rainbowRod2",
+      "recipe": "botania:rainbow_rod"
+    },
+    {
+      "type": "crafting",
+      "recipe": "botania:bifrost_perm",
+      "recipe2": "botania:bifrost_pane"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.rainbowRod4",
+      "recipe": "botania:slab_recombine/shimmerrock",
+      "recipe2": "botania:shimmerrock"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.rainbowRod5",
+      "recipe": "botania:slab_recombine/shimmerwood_planks",
+      "recipe2": "botania:shimmerwood_planks"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.rainbowRod7",
+      "recipe": "botania:fabulous_pool"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.rainbowRod7",
+      "recipe": "botania:fabulous_pool_upgrade"
+    }
+  ]
+}

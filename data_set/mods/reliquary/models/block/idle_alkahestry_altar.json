@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "reliquary:block/idle_alkahestry_altar"
+    }
+
+}

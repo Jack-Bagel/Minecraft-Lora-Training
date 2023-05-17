@@ -1,0 +1,34 @@
+{
+  "name": "botania.entry.incense",
+  "category": "botania:devices",
+  "icon": "botania:incense_stick",
+  "advancement": "botania:main/mana_pool_pickup_lexicon",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.incense0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.incense1"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.incense2"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.incense5"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.incense3",
+      "recipe": "botania:incense_stick"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.incense4",
+      "recipe": "botania:incense_plate"
+    }
+  ]
+}

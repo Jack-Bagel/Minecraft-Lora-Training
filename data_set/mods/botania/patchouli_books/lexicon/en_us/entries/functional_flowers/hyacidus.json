@@ -1,0 +1,20 @@
+{
+  "name": "botania.entry.hyacidus",
+  "category": "botania:functional_flowers",
+  "icon": "botania:hyacidus",
+  "advancement": "botania:main/runic_altar_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.hyacidus0"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "text": "botania.page.hyacidus1",
+      "recipe": "botania:petal_apothecary/hyacidus"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:floating_hyacidus": 1
+  }
+}

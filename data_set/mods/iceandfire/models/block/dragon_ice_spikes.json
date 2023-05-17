@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "iceandfire:block/dragon_ice_spikes"
+  }
+}

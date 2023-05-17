@@ -1,0 +1,48 @@
+这金属名为龙钢。龙钢，乃是人类已
+知的最坚韧、最万能的金属材料。它
+能被打造成工具、铠甲，甚至于龙铠。
+
+
+
+<item><iceandfire:dragonsteel_fire_sword 0 10 40 1>
+<item><iceandfire:dragonsteel_fire_pickaxe 0 26 40 1>
+<item><iceandfire:dragonsteel_fire_axe 0 42 40 1>
+<item><iceandfire:dragonsteel_fire_shovel 0 58 40 1>
+<item><iceandfire:dragonsteel_fire_hoe 0 74 40 1>
+<item><iceandfire:dragonsteel_fire_helmet 0 20 60 1>
+<item><iceandfire:dragonsteel_fire_chestplate 0 35 60 1>
+<item><iceandfire:dragonsteel_fire_leggings 0 50 60 1>
+<item><iceandfire:dragonsteel_fire_boots 0 65 60 1>
+
+
+
+
+
+
+
+
+请记住，锻冶龙钢所需的并非高温，而
+是龙息中的魔力。这就是说，极寒的龙
+息也能在对应种类的锻炉中锻造合金，
+是为龙霜钢。
+
+<item><iceandfire:dragonforge_ice_brick 0 70 4 1.5>
+<item><iceandfire:dragonforge_ice_input 0 90 4 1.5>
+<item><iceandfire:dragonforge_ice_core 0 110 4 1.5>
+
+
+
+
+
+
+龙炎钢会让敌手陷入至多可长达十五秒
+的熊熊烈火中，并将其击退很远；龙霜
+钢所命中的目标则会变成一大坨冰块。
+两种龙钢均极为锋利，龙钢剑的锋刃连
+巨龙都难以抵挡。
+龙钢制成的铠甲还能高效地抵御龙息。
+
+
+
+
+

@@ -1,0 +1,13 @@
+<NEWLINE>
+<NEWLINE>
+<NEWLINE>
+<NEWLINE>
+O crocodilo é um réptil enorme que raramente aparece em rios e pântanos em todo o mundo. Esta besta se
+ lança em direção a sua presa, agarrando-a e puxando-a para baixo da água, onde começa a dar uma rolagem
+ mortal devastadora. É naturalmente hostil tanto ao homem quanto ao animal.
+<NEWLINE>
+Embora hostis, os crocodilos podem ser reproduzidos com carne podre. Após a reprodução, os crocodilos virão para a costa para colocar seus ovos. Se esses ovos forem danificados, quaisquer pais crocodilos se tornará agressivo.
+Depois de algum tempo, os ovos de crocodilo eclodirão e o bebê crocodilo pode se conectar com jogador mais próximo. Ele irá defender a área de seu nascimento de monstros. Interagir com ele também pode fazer com que ele fique quieto e relaxe.
+ <NEWLINE>
+ Escamas de Crocodilo são eliminadas quando as criaturas se tornam adultas ou morrem. Essas placas podem ser usadas para criar uma peitoral de 
+ proteção que aumenta a velocidade de nado do usuário. Eles também podem ser usados para fazer uma cópia deste livro.

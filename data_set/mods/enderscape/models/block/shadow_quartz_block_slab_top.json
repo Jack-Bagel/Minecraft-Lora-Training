@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/slab_top",
+	"textures": {
+		"bottom": "enderscape:block/shadow_quartz_block",
+		"top": "enderscape:block/shadow_quartz_block",
+		"side": "enderscape:block/shadow_quartz_block"
+	}
+}

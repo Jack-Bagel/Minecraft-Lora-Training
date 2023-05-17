@@ -1,0 +1,14 @@
+{
+  "parent": "item/handheld_rod",
+  "textures": {
+    "layer0": "reliquary:item/rod_of_lyssa"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "cast": 1
+      },
+      "model": "reliquary:item/rod_of_lyssa_cast"
+    }
+  ]
+}

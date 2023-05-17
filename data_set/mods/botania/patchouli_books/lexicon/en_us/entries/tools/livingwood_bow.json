@@ -1,0 +1,17 @@
+{
+  "name": "botania.entry.livingwoodBow",
+  "category": "botania:tools",
+  "icon": "botania:livingwood_bow",
+  "advancement": "botania:main/mana_pool_pickup_lexicon",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.livingwoodBow0"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.livingwoodBow1",
+      "recipe": "botania:livingwood_bow"
+    }
+  ]
+}

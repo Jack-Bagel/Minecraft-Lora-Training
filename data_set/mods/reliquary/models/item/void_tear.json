@@ -1,0 +1,14 @@
+{
+  "parent": "reliquary:item/default_item",
+  "textures": {
+    "layer0": "reliquary:item/void_tear"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "empty": 1
+      },
+      "model": "reliquary:item/empty_void_tear"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/fence_side",
+	"textures": {
+		"texture": "enderscape:block/celestial_planks"
+	}
+}

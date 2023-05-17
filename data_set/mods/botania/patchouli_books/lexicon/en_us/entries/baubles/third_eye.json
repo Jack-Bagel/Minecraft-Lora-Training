@@ -1,0 +1,17 @@
+{
+  "name": "botania.entry.thirdEye",
+  "category": "botania:baubles",
+  "icon": "botania:third_eye",
+  "advancement": "botania:main/mana_pool_pickup_lexicon",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.thirdEye0"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.thirdEye1",
+      "recipe": "botania:third_eye"
+    }
+  ]
+}

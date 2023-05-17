@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"attached=false": {
+			"model": "enderscape:block/flanger_berry_vine"
+		},
+		"attached=true": {
+			"model": "enderscape:block/flanger_berry_vine_attached"
+		}
+	}
+}

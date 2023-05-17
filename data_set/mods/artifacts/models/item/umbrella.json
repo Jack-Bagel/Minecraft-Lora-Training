@@ -1,0 +1,16 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "artifacts:blocking": 0
+      },
+      "model": "artifacts:item/umbrella_idle"
+    },
+    {
+      "predicate": {
+        "artifacts:blocking": 1
+      },
+      "model": "artifacts:item/umbrella_blocking"
+    }
+  ]
+}

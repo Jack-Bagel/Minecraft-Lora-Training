@@ -1,0 +1,26 @@
+{
+    "book": {
+        "category": "neutral",
+        "sounds": [
+            "reliquary:book"
+        ]
+    },
+    "handgun_load": {
+        "category": "player",
+        "sounds": [
+            "reliquary:handgun_load"
+        ]
+    },
+    "handgun_shot": {
+        "category": "player",
+        "sounds": [
+            "reliquary:handgun_shot"
+        ]
+    },
+    "gust": {
+        "category": "player",
+        "sounds": [
+            "reliquary:gust"
+        ]
+    }
+}

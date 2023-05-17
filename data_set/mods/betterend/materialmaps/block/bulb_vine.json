@@ -1,0 +1,18 @@
+{
+	"defaultMap": {
+		"spriteMap": [
+			{
+				"sprite": "betterend:block/bulb_vine",
+				"material": "betterend:waving_glow_inc"
+			},
+			{
+				"sprite": "betterend:block/bulb_vine_middle",
+				"material": "betterend:waving"
+			},
+			{
+				"sprite": "betterend:block/bulb_vine_fur",
+				"material": "betterend:waving"
+			}
+		]
+	}
+}

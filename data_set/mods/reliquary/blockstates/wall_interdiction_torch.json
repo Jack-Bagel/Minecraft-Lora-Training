@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=east": { "model": "reliquary:block/interdiction_torch_wall" },
+    "facing=south": { "model": "reliquary:block/interdiction_torch_wall", "y": 90 },
+    "facing=west": { "model": "reliquary:block/interdiction_torch_wall", "y": 180 },
+    "facing=north": { "model": "reliquary:block/interdiction_torch_wall", "y": 270 }
+  }
+}

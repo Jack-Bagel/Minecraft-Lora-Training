@@ -1,0 +1,11 @@
+{
+  "name": "botania.entry.preventingDecay",
+  "category": "botania:misc",
+  "icon": "botania:monocle",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.preventingDecay0"
+    }
+  ]
+}

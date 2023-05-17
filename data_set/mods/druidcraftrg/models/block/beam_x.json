@@ -1,0 +1,50 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "druidcraftrg:block/beam",
+		"particle": "druidcraftrg:block/beam"
+	},
+	"elements": [
+		{
+			"from": [0, 5, 5],
+			"to": [5, 11, 11],
+			"faces": {
+				"north": {"uv": [0, 11, 6, 16], "rotation": 270, "texture": "#0"},
+				"south": {"uv": [0, 0, 6, 5], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [6, 0, 12, 6], "texture": "#0"},
+				"up": {"uv": [0, 0, 6, 5], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 6, 5], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [11, 5, 5],
+			"to": [16, 11, 11],
+			"faces": {
+				"north": {"uv": [0, 0, 6, 5], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [6, 0, 12, 6], "texture": "#0"},
+				"south": {"uv": [0, 11, 6, 16], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0, 11, 6, 16], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 11, 6, 16], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [5, 5, 5],
+			"to": [11, 11, 11],
+			"faces": {
+				"north": {"uv": [0, 5, 6, 11], "rotation": 270, "texture": "#0"},
+				"south": {"uv": [0, 5, 6, 11], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0, 5, 6, 11], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 5, 6, 11], "rotation": 270, "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "X",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}

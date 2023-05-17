@@ -1,0 +1,6 @@
+{
+  "parent": "reliquary:item/default_weapon_item",
+  "textures": {
+    "layer0": "reliquary:item/ender_staff"
+  }
+}

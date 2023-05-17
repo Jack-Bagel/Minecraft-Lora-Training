@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "enderscape:item/drift_jelly_bottle"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "botania.challenge.kekimurusSetup",
+  "category": "botania:challenges",
+  "icon": "botania:kekimurus",
+  "read_by_default": true,
+  "advancement": "botania:main/mana_pool_pickup_lexicon",
+  "entry_color": "aa00aa",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "quest",
+      "title": "botania.challenge.kekimurusSetup",
+      "text": "botania.challenge.kekimurusSetup.desc"
+    }
+  ]
+}

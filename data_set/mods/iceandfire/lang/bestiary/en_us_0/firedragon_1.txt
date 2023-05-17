@@ -1,0 +1,43 @@
+Simply creating fire is not the
+only way Fire Dragons dispatch
+their prey. They also have many
+different attacks.
+
+
+
+<image><drawings_firedragon_attacks.png 20 110 0 106 264 77 0.65>
+
+
+
+
+The dragon's fire blast attack
+fires a steady stream of flames
+from the beast's mouth. Younger
+dragons are less effective at
+this attack, while larger ones
+can scorch nearby terrain,
+inflicting massive amounts of
+damage.
+
+
+<image><drawings_firedragon_attacks.png 280 10 0 0 210 81 0.75>
+
+
+
+
+
+The fire blast isn't the only
+elemental attack. The dragon
+can also build up a blast of
+flames into a solidified block.
+This explosive fireball is then
+thrown towards the dragon's
+prey. Only older dragons are
+capable of this attack.
+
+<image><drawings_firedragon_attacks.png 360 242 262 220 213 78 0.6>
+
+
+
+One of the most common fire
+dragon attacks is the dragon's bite.

@@ -1,0 +1,59 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "druidcraftrg:block/bedrolls/red_bedroll_head_foot",
+		"3": "druidcraftrg:block/bedrolls/red_bedroll_top",
+		"4": "druidcraftrg:block/bedrolls/bedroll_underneath",
+		"5": "druidcraftrg:block/bedrolls/red_bedroll_upper_sides",
+		"particle": "druidcraftrg:block/bedrolls/red_bedroll_bottom"
+	},
+	"elements": [
+		{
+			"name": "padding",
+			"from": [1, 0, 9],
+			"to": [15, 2, 16],
+			"faces": {
+				"east": {"uv": [0, 0, 2, 7], "rotation": 270, "texture": "#5"},
+				"south": {"uv": [1, 3, 15, 5], "texture": "#1"},
+				"west": {"uv": [14, 0, 16, 7], "rotation": 90, "texture": "#5"},
+				"up": {"uv": [1, 0, 15, 7], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [1, 0, 15, 7], "texture": "#4"}
+			}
+		},
+		{
+			"name": "pillow",
+			"from": [2, 2, 9],
+			"to": [14, 4, 15],
+			"faces": {
+				"east": {"uv": [2, 1, 4, 7], "rotation": 270, "texture": "#5"},
+				"south": {"uv": [2, 1, 14, 3], "texture": "#1"},
+				"west": {"uv": [12, 1, 14, 7], "rotation": 90, "texture": "#5"},
+				"up": {"uv": [2, 1, 14, 7], "rotation": 180, "texture": "#3"}
+			}
+		},
+		{
+			"name": "hem",
+			"from": [0, 0, 2],
+			"to": [16, 5, 9],
+			"faces": {
+				"north": {"uv": [0, 11, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 7, 5, 14], "rotation": 270, "texture": "#5"},
+				"south": {"uv": [0, 0, 16, 5], "texture": "#1"},
+				"west": {"uv": [11, 7, 16, 14], "rotation": 90, "texture": "#5"},
+				"up": {"uv": [0, 7, 16, 14], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [0, 7, 16, 14], "texture": "#4"}
+			}
+		},
+		{
+			"name": "roll1",
+			"from": [1, 0, 0],
+			"to": [15, 4, 2],
+			"faces": {
+				"east": {"uv": [0, 14, 4, 16], "rotation": 270, "texture": "#5"},
+				"west": {"uv": [12, 14, 16, 16], "rotation": 90, "texture": "#5"},
+				"up": {"uv": [1, 14, 15, 16], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [1, 14, 15, 16], "texture": "#4"}
+			}
+		}
+	]
+}

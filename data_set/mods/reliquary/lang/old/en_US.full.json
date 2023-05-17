@@ -1,0 +1,19 @@
+{
+
+    "reliquary.waila.reliquary.mortar.ingredients": "Ingredients:",
+    "reliquary.waila.reliquary.mortar.result": "Resulting potion effects:",
+    "reliquary.waila.reliquary.cauldron.missing_netherwart": "Missing Nether Wart",
+    "reliquary.waila.reliquary.cauldron.missing_gunpowder": "Missing Gunpowder",
+    "reliquary.waila.reliquary.cauldron.lingering": "Lingering potion",
+    "reliquary.waila.reliquary.cauldron.splash": "Splash potion",
+    "reliquary.waila.reliquary.cauldron.potion": "Potion",
+    "reliquary.waila.reliquary.altar.inactive": "Inactive",
+    "reliquary.waila.reliquary.altar.active": "Active",
+    "reliquary.waila.reliquary.altar.time_remaining": "Time remaining: %s",
+    "reliquary.waila.reliquary.shift_for_more": "Hold shift for more info",
+
+    "fluid.reliquary.xpjuice": "XP Juice",
+    "fluid.milk": "Milk",
+
+    "reliquary.potion.flight": "Flight"
+}

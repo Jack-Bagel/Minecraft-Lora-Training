@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "iceandfire:block/dreadwood_log_top",
+        "side": "iceandfire:block/dreadwood_log"
+    }
+}

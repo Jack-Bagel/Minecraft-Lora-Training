@@ -1,0 +1,66 @@
+造出龙息锻炉。
+
+
+
+<block><iceandfire:dragon_bone_block 0 40 30 1>
+<block><iceandfire:dragonforge_fire_brick 0 48 34 1>
+<block><iceandfire:dragon_bone_block 0 56 38 1>
+<block><iceandfire:dragonforge_fire_brick 0 32 34 1>
+<block><iceandfire:dragonforge_fire_brick 0 40 38 1>
+<block><iceandfire:dragonforge_fire_brick 0 48 42 1>
+<block><iceandfire:dragon_bone_block 0 24 38 1>
+<block><iceandfire:dragonforge_fire_brick 0 32 42 1>
+<block><iceandfire:dragon_bone_block 0 40 46 1>
+第一层
+
+
+
+
+
+
+
+<block><iceandfire:dragonforge_fire_brick 0 40 70 1>
+<block><iceandfire:dragonforge_fire_brick 0 48 74 1>
+<block><iceandfire:dragonforge_fire_brick 0 56 78 1>
+<block><iceandfire:dragonforge_fire_brick 0 32 74 1>
+<block><iceandfire:dragonforge_fire_core 0 40 78 1>
+<block><iceandfire:dragonforge_fire_brick 0 48 82 1>
+<block><iceandfire:dragonforge_fire_brick 0 24 78 1>
+<block><iceandfire:dragonforge_fire_input 0 32 82 1>
+<block><iceandfire:dragonforge_fire_brick 0 40 86 1>
+第二层
+
+
+
+
+
+
+
+
+<block><iceandfire:dragon_bone_block 0 140 10 1>
+<block><iceandfire:dragonforge_fire_brick 0 148 14 1>
+<block><iceandfire:dragon_bone_block 0 156 18 1>
+<block><iceandfire:dragonforge_fire_brick 0 132 14 1>
+<block><iceandfire:dragonforge_fire_brick 0 140 18 1>
+<block><iceandfire:dragonforge_fire_brick 0 148 22 1>
+<block><iceandfire:dragon_bone_block 0 124 18 1>
+<block><iceandfire:dragonforge_fire_brick 0 132 22 1>
+<block><iceandfire:dragon_bone_block 0 140 26 1>
+第三层
+
+
+
+
+
+
+依照图样，自上而下逐层搭建锻炉的第
+一层、第二层、第三层。建成的锻炉并
+不能立刻开始运作，它需要特殊的能量。
+
+
+这种特殊的能量就是龙息。要使飞龙为
+你工作，有两种办法：其一是在被驯化
+的龙身边搭建锻炉，龙会主动吐息；其
+二是用铁链束缚住野龙，强迫它为你工
+作。
+

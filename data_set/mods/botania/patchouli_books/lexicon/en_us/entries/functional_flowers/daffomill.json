@@ -1,0 +1,20 @@
+{
+  "name": "botania.entry.daffomill",
+  "category": "botania:functional_flowers",
+  "icon": "botania:daffomill",
+  "advancement": "botania:main/runic_altar_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.daffomill0"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "text": "botania.page.daffomill1",
+      "recipe": "botania:petal_apothecary/daffomill"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:floating_daffomill": 1
+  }
+}

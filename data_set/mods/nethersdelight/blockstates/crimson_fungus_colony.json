@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "nethersdelight:block/crimson_fungus_colony_stage0"
+    },
+    "age=1": {
+      "model": "nethersdelight:block/crimson_fungus_colony_stage1"
+    },
+    "age=2": {
+      "model": "nethersdelight:block/crimson_fungus_colony_stage2"
+    },
+    "age=3": {
+      "model": "nethersdelight:block/crimson_fungus_colony_stage3"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "druidcraftrg:block/hemp_crop_bottom_4",
+		"3": "druidcraftrg:block/hemp_crop_leaves_small",
+		"particle": "druidcraftrg:block/hemp_crop_bottom_4"
+	},
+	"elements": [
+		{
+			"from": [-2, 0, 8],
+			"to": [18, 16, 8],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 0.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [8, 0, -2],
+			"to": [8, 16, 18],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 0.5, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [0, 4, 0],
+			"to": [16, 4, 16],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 4, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
+			}
+		}
+	]
+}

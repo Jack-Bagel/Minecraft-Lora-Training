@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/outer_stairs",
+	"textures": {
+		"bottom": "enderscape:block/murushroom_planks",
+		"top": "enderscape:block/murushroom_planks",
+		"side": "enderscape:block/murushroom_planks"
+	}
+}

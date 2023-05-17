@@ -1,0 +1,21 @@
+{
+  "name": "botania.entry.hydroangeas",
+  "category": "botania:generating_flowers",
+  "icon": "botania:hydroangeas",
+  "advancement": "botania:main/pure_daisy_pickup",
+  "turnin": "botania:main/generating_flower",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.hydroangeas0"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "text": "botania.page.hydroangeas1",
+      "recipe": "botania:petal_apothecary/hydroangeas"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:floating_hydroangeas": 1
+  }
+}

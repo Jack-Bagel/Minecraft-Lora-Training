@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "botania:block/black_pavement_slab"
+    },
+    "type=double": {
+      "model": "botania:block/black_pavement"
+    },
+    "type=top": {
+      "model": "botania:block/black_pavement_slab_top"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "spellbladenext:block/hex",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "spellbladenext:block/hex"
+    },
+    "facing=south": {
+      "model": "spellbladenext:block/hex",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "spellbladenext:block/hex",
+      "y": 270
+    }
+  }
+}

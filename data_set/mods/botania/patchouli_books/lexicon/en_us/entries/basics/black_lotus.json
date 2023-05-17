@@ -1,0 +1,15 @@
+{
+  "name": "botania.entry.blackLotus",
+  "category": "botania:basics",
+  "icon": "botania:black_lotus",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.blackLotus0"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:black_lotus": 0,
+    "botania:blacker_lotus": 0
+  }
+}

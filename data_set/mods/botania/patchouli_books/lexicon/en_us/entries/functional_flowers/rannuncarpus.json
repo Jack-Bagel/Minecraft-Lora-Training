@@ -1,0 +1,24 @@
+{
+  "name": "botania.entry.rannuncarpus",
+  "category": "botania:functional_flowers",
+  "icon": "botania:rannuncarpus",
+  "advancement": "botania:main/runic_altar_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.rannuncarpus0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.rannuncarpus1"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "text": "botania.page.rannuncarpus2",
+      "recipe": "botania:petal_apothecary/rannuncarpus"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:floating_rannuncarpus": 1
+  }
+}

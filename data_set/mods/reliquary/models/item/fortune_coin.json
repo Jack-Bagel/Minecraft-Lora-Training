@@ -1,0 +1,7 @@
+{
+  "parent": "reliquary:item/default_item",
+  "textures": {
+    "layer0": "reliquary:item/fortune_coin",
+    "layer1": "reliquary:item/fortune_coin_overlay"
+  }
+}

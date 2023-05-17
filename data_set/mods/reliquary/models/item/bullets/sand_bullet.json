@@ -1,0 +1,15 @@
+{
+  "parent": "reliquary:item/default_item",
+  "textures": {
+    "layer0": "reliquary:item/bullet_sand",
+    "layer1": "reliquary:item/empty_overlay"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "reliquary:potion": 1
+      },
+      "model": "reliquary:item/bullets/potion_bullet"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "botania.entry.spectranthemum",
+  "category": "botania:functional_flowers",
+  "icon": "botania:spectranthemum",
+  "entry_color": "aa00",
+  "advancement": "botania:main/elf_lexicon_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.spectranthemum0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.spectranthemum1"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.spectranthemum2"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "text": "botania.page.spectranthemum3",
+      "recipe": "botania:petal_apothecary/spectranthemum"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:floating_spectranthemum": 1
+  }
+}

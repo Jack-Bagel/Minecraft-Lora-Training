@@ -1,0 +1,41 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "druidcraftrg:block/rope",
+		"particle": "druidcraftrg:block/rope"
+	},
+	"elements": [
+		{
+			"from": [7, 7, 9],
+			"to": [9, 9, 16],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [14, 8, 16, 14], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [8, 8, 10, 10], "texture": "#0"},
+				"west": {"uv": [10, 8, 12, 14], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [12, 8, 14, 14], "texture": "#0"},
+				"down": {"uv": [8, 8, 10, 14], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.5, 6.5, 9.5],
+			"to": [9.5, 9.5, 16],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [6, 7, 8, 12], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [2, 7, 4, 12], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [4, 7, 6, 12], "texture": "#0"},
+				"down": {"uv": [0, 7, 2, 12], "rotation": 180, "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "south",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

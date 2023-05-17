@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+		{"model": "nethersdelight:block/rich_soul_soil"},
+		{"model": "nethersdelight:block/rich_soul_soil", "y": 90},
+		{"model": "nethersdelight:block/rich_soul_soil", "y": 180},
+		{"model": "nethersdelight:block/rich_soul_soil", "y": 270}
+	]
+  }
+}

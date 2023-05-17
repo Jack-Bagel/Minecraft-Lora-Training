@@ -1,0 +1,6 @@
+{
+    "parent": "reliquary:block/passive_pedestal",
+    "textures": {
+        "wool": "block/pink_wool"
+    }
+}

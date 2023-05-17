@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/tinted_cross",
+	"textures": {
+		"cross": "enderscape:block/blinklight_vines_head_1"
+	}
+}

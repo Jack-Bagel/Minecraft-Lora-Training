@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "iceandfire:block/dragonforge_ice_core_disabled"
+    }
+  }
+}

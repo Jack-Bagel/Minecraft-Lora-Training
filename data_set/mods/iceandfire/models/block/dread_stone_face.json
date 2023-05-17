@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "iceandfire:block/dread_stone_face",
+    "down": "iceandfire:block/dread_stone_face_top",
+    "up": "iceandfire:block/dread_stone_face_top",
+    "north": "iceandfire:block/dread_stone_face",
+    "east": "iceandfire:block/dread_stone_face",
+    "south": "iceandfire:block/dread_stone_face",
+    "west": "iceandfire:block/dread_stone_face"
+  }
+}
+

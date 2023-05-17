@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "side": "nethersdelight:block/blackstone_stove_side",
+    "front": "nethersdelight:block/blackstone_stove_front",
+    "bottom": "nethersdelight:block/blackstone_stove_bottom",
+    "top": "nethersdelight:block/blackstone_stove_top"
+  }
+}

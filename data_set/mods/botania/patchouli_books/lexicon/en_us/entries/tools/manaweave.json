@@ -1,0 +1,41 @@
+{
+  "name": "botania.entry.manaweave",
+  "category": "botania:tools",
+  "icon": "botania:manaweave_cloth",
+  "advancement": "botania:main/mana_pool_pickup_lexicon",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.manaweave0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.manaweave1"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.manaweave2",
+      "recipe": "botania:manaweave_cloth"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.manaweave3",
+      "recipe": "botania:manaweave_helmet"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.manaweave4",
+      "recipe": "botania:manaweave_chestplate"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.manaweave5",
+      "recipe": "botania:manaweave_leggings"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.manaweave6",
+      "recipe": "botania:manaweave_boots"
+    }
+  ]
+}

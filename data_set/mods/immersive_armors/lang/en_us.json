@@ -1,0 +1,85 @@
+{
+  "itemGroup.immersive_armors.immersive_armors_tab": "Immersive Armors",
+
+  "armorEffect.fireResistance": "%d%% Fire Resistance",
+  "armorEffect.explosionResistance": "%d%% Explosion Resistance",
+  "armorEffect.magicResistance": "%d%% Magic Resistance",
+  "armorEffect.fireInflicting": "%d Ticks Fire Damage",
+  "armorEffect.bounceback": "%d Bounceback",
+  "armorEffect.spikes": "%d Spike Damage",
+  "armorEffect.arrowBlock": "%d%% Arrow Blocking",
+  "armorEffect.wither": "Lets your attackers wither",
+  "armorEffect.charged": "Charged",
+  "armorEffect.berserk": "Up to %d%% Damage when injured",
+  "armorEffect.weaponEfficiency": "+%d%% Damage with %s",
+  "armorEffect.weaponEfficiency.axe": "Axes",
+  "armorEffect.steamTech.head": "A primitive radar shows you the position of close entities",
+  "armorEffect.steamTech.chest": "Never loose track of time again!",
+  "armorEffect.steamTech.legs": "Discharges the steam tank for a double jump",
+  "armorEffect.steamTech.feet": "Uses Steam Jets to avoid fall damage",
+
+  "immersive_armors.dyeable": "Dyeable",
+  "immersive_armors.incomplete": "%d / %d parts equipped",
+
+  "item.immersive_armors.bone_helmet": "Bone Helmet",
+  "item.immersive_armors.bone_chestplate": "Bone Chestplate",
+  "item.immersive_armors.bone_leggings": "Bone Leggings",
+  "item.immersive_armors.bone_boots": "Bone Boots",
+
+  "item.immersive_armors.wither_helmet": "Wither Helmet",
+  "item.immersive_armors.wither_chestplate": "Wither Chestplate",
+  "item.immersive_armors.wither_leggings": "Wither Leggings",
+  "item.immersive_armors.wither_boots": "Wither Boots",
+
+  "item.immersive_armors.warrior_helmet": "Warrior Helmet",
+  "item.immersive_armors.warrior_chestplate": "Warrior Chestplate",
+  "item.immersive_armors.warrior_leggings": "Warrior Leggings",
+  "item.immersive_armors.warrior_boots": "Warrior Boots",
+
+  "item.immersive_armors.heavy_helmet": "Heavy Helmet",
+  "item.immersive_armors.heavy_chestplate": "Heavy Chestplate",
+  "item.immersive_armors.heavy_leggings": "Heavy Leggings",
+  "item.immersive_armors.heavy_boots": "Heavy Boots",
+
+  "item.immersive_armors.robe_helmet": "Robe Helmet",
+  "item.immersive_armors.robe_chestplate": "Robe Chestplate",
+  "item.immersive_armors.robe_leggings": "Robe Leggings",
+  "item.immersive_armors.robe_boots": "Robe Boots",
+
+  "item.immersive_armors.slime_helmet": "Slime Helmet",
+  "item.immersive_armors.slime_chestplate": "Slime Chestplate",
+  "item.immersive_armors.slime_leggings": "Slime Leggings",
+  "item.immersive_armors.slime_boots": "Slime Boots",
+
+  "item.immersive_armors.divine_helmet": "Divine Helmet",
+  "item.immersive_armors.divine_chestplate": "Divine Chestplate",
+  "item.immersive_armors.divine_leggings": "Divine Leggings",
+  "item.immersive_armors.divine_boots": "Divine Boots",
+  "item.immersive_armors.divine.description": "Can deflect a hit once in a minute",
+
+  "item.immersive_armors.prismarine_helmet": "Prismarine Helmet",
+  "item.immersive_armors.prismarine_chestplate": "Prismarine Chestplate",
+  "item.immersive_armors.prismarine_leggings": "Prismarine Leggings",
+  "item.immersive_armors.prismarine_boots": "Prismarine Boots",
+
+  "item.immersive_armors.wooden_helmet": "Wooden Helmet",
+  "item.immersive_armors.wooden_chestplate": "Wooden Chestplate",
+  "item.immersive_armors.wooden_leggings": "Wooden Leggings",
+  "item.immersive_armors.wooden_boots": "Wooden Boots",
+
+  "item.immersive_armors.steampunk_helmet": "Steampunk Helmet",
+  "item.immersive_armors.steampunk_chestplate": "Steampunk Chestplate",
+  "item.immersive_armors.steampunk_leggings": "Steampunk Leggings",
+  "item.immersive_armors.steampunk_boots": "Steampunk Boots",
+
+  "option.immersive_armors.general": "General Options",
+  "option.immersive_armors.whitelist": "Item Whitelist",
+  "option.immersive_armors.hudClockX": "X offset of the HUD clock.",
+  "option.immersive_armors.hudClockXOffhand": "X offset of the HUD clock with used offhand.",
+  "option.immersive_armors.hudClockY": "Y offset of the HUD clock.",
+  "option.immersive_armors.hudCompassX": "X offset of the HUD compass.",
+  "option.immersive_armors.hudCompassXOffhand": "X offset of the HUD clock with used offhand.",
+  "option.immersive_armors.hudCompassY": "Y offset of the HUD compass.",
+  "option.immersive_armors.lootChance": "Chance of finding Immersive Armor in loot.",
+  "option.immersive_armors.mobEntityUseImmersiveArmorChance": "Chance of entity wearing Immersive Armor."
+}

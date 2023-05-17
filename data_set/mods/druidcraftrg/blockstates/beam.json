@@ -1,0 +1,28 @@
+{
+    "multipart": [
+		{	"when": { "x_axis": "false", "y_axis": "false", "z_axis": "false" },
+            "apply": { "model": "druidcraftrg:block/beam_x",
+				"model": "druidcraftrg:block/beam_y",
+				"model": "druidcraftrg:block/beam_z"
+			}
+        },
+        {   "when": { "x_axis": "true", "y_axis": "false", "z_axis": "false" },
+            "apply": { "model": "druidcraftrg:block/beam_x" }
+        },
+		{   "when": { "x_axis": "false", "y_axis": "true", "z_axis": "false" },
+            "apply": { "model": "druidcraftrg:block/beam_y" }
+        },
+		{   "when": { "x_axis": "false", "y_axis": "false", "z_axis": "true" },
+            "apply": { "model": "druidcraftrg:block/beam_z" }
+        },
+        {   "when": { "x_axis": "true" },
+            "apply": { "model": "druidcraftrg:block/beam_parts_x" }
+        },
+        {   "when": { "y_axis": "true" },
+            "apply": { "model": "druidcraftrg:block/beam_parts_y" }
+        },
+        {   "when": { "z_axis": "true" },
+            "apply": { "model": "druidcraftrg:block/beam_parts_z" }
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "reliquary:item/default_item",
+  "textures": {
+    "layer0": "reliquary:item/glowing_water"
+  }
+}

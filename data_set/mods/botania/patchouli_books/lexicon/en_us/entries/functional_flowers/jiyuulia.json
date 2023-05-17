@@ -1,0 +1,20 @@
+{
+  "name": "botania.entry.jiyuulia",
+  "category": "botania:functional_flowers",
+  "icon": "botania:jiyuulia",
+  "advancement": "botania:main/runic_altar_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.jiyuulia0"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "text": "botania.page.jiyuulia1",
+      "recipe": "botania:petal_apothecary/jiyuulia"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:floating_jiyuulia": 1
+  }
+}

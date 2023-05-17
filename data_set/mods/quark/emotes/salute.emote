@@ -1,0 +1,17 @@
+use head
+use right_arm
+
+animation sequence
+	section parallel
+		move head_x 150 0
+		move head_y 150 0
+		move head_z 150 0
+		move right_arm_x 150 -2.34
+		move right_arm_z 150 0.4
+	end
+	pause 2500
+	section parallel
+		move right_arm_x 300 0
+		move right_arm_z 300 0
+	end
+end

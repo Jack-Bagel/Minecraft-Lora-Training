@@ -1,0 +1,18 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "echoingdepths:item/soul_descent"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [ 0, -90, 55 ],
+      "translation": [ 0, 8.0, 0.5 ],
+      "scale": [ 1.1, 1.1, 1.1 ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [ 0, 90, -55 ],
+      "translation": [ 0, 8.0, 0.5 ],
+      "scale": [ 1.1, 1.1, 1.1 ]
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Making a Thing",
+  "grid_size": "large",
+  "grid": [
+    [
+      {
+        "id": "minecraft:iron_bars"
+      },
+      {
+        "id": "minecraft:iron_ingot"
+      },
+      {
+        "id": "minecraft:iron_bars"
+      }
+    ],
+    [
+      {
+        "id": "minecraft:iron_ingot"
+      },
+      {
+        "id": "minecraft:quartz"
+      },
+      {
+        "id": "minecraft:iron_ingot"
+      }
+    ],
+    [
+      {
+        "id": "minecraft:iron_bars"
+      },
+      {
+        "id": "minecraft:iron_ingot"
+      },
+      {
+        "id": "minecraft:iron_bars"
+      }
+    ]
+  ],
+  "result": {
+    "id": "minecraft:comparator"
+  },
+  "description": [
+    {
+      "text": "Now that you have Grans of Infinity, you can craft the first item you'll need: The Simple Machine Chassis. "
+    }
+  ]
+}

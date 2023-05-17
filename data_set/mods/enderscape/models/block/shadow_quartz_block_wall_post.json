@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/template_wall_post",
+	"textures": {
+		"wall": "enderscape:block/shadow_quartz_block"
+	}
+}

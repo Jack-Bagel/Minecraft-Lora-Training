@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "enderscape:block/celestial_slab"
+    },
+    "type=double": {
+      "model": "enderscape:block/celestial_planks"
+    },
+    "type=top": {
+      "model": "enderscape:block/celestial_slab_top"
+    }
+  }
+}

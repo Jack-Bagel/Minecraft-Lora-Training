@@ -1,0 +1,18 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "echoingdepths:item/echo_piercer"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [ 0, -90, 55 ],
+      "translation": [ 0, 8.0, 0.5 ],
+      "scale": [ 1.25, 1.25, 1.25 ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [ 0, 90, -55 ],
+      "translation": [ 0, 8.0, 0.5 ],
+      "scale": [ 1.25, 1.25, 1.25 ]
+    }
+  }
+}

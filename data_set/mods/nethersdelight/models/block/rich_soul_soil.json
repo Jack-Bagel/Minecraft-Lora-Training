@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "nethersdelight:block/soul_compost_3",
+    "north": "nethersdelight:block/soul_compost_3",
+    "south": "nethersdelight:block/soul_compost_3",
+    "east": "nethersdelight:block/soul_compost_3",
+    "west": "nethersdelight:block/soul_compost_3",
+    "up": "nethersdelight:block/rich_soul_soil",
+    "down": "nethersdelight:block/soul_compost_3"
+  }
+}

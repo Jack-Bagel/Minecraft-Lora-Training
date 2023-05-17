@@ -1,0 +1,29 @@
+Череп у дракона тоже один. Его 
+можно поставить на землю, а 
+можно использовать для создания
+командного посоха. Ещё  с 
+помощью черепа можно нарисовать
+силуэт головы дракона на флаге.
+
+
+
+
+
+
+
+Кровь дракона, как ледяного, так 
+и огненного, определённо имеет 
+сильные магические свойства. 
+Однако их понимание пока 
+ускользает от меня, и я должен
+как-нибудь углубиться в эту тему.
+
+Похоже, чешую и кости дракона 
+легко собирать в блоки для 
+хранения. Я думаю, что 
+сосредоточение такого количества
+магической ауры в одном блоке 
+может иметь неожиданное 
+использование.
+<recipe><iceandfire:dragonscale_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 210 66 1>
+<recipe><iceandfire:dragon_bone_block 0 iceandfire:dragonbone 0 iceandfire:dragonbone 0 iceandfire:dragonbone 0 iceandfire:dragonbone 0 iceandfire:dragonbone 0 iceandfire:dragonbone 0 iceandfire:dragonbone 0 iceandfire:dragonbone 0 iceandfire:dragonbone 0 210 140 1>

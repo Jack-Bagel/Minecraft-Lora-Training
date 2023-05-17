@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "berry_stage=flower": {
+      "model": "enderscape:block/flanger_flower"
+    },
+    "berry_stage=unripe": {
+      "model": "enderscape:block/unripe_flanger_berry_block"
+    },
+    "berry_stage=ripe": {
+      "model": "enderscape:block/flanger_berry_block"
+    }
+  }
+}

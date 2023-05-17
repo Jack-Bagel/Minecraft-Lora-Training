@@ -1,0 +1,31 @@
+{
+    "targets": [
+        "swap"
+    ],
+    "passes": [
+        {
+            "name": "quark:focus",
+            "intarget": "minecraft:main",
+            "outtarget": "swap",
+            "uniforms": [
+                {
+                    "name": "RedClip",
+                    "values": [ -0.4 ]
+                },
+                {
+                    "name": "GreenClip",
+                    "values": [ 0.5 ]
+                },
+                {
+                    "name": "BlueClip",
+                    "values": [ -0.4 ]
+                }
+            ]
+        },
+        {
+            "name": "blit",
+            "intarget": "swap",
+            "outtarget": "minecraft:main"
+        }
+    ]
+}

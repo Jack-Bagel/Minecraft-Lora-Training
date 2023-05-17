@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"down": "enderscape:block/flanger_berry_block_bottom",
+		"east": "enderscape:block/flanger_berry_block",
+		"north": "enderscape:block/flanger_berry_block",
+		"particle": "enderscape:block/flanger_berry_block_particle",
+		"south": "enderscape:block/flanger_berry_block",
+		"up": "enderscape:block/flanger_berry_block_top",
+		"west": "enderscape:block/flanger_berry_block"
+	}
+}

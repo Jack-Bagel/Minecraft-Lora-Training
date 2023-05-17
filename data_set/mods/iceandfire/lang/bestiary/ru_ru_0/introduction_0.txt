@@ -1,0 +1,54 @@
+	За переплёт бестиария 
+зацепилась оборванная записка.
+В ней написано:
+
+<item><iceandfire:manuscript 0 38 20 1>
+
+"Эта рукопись создана, чтобы 
+направлять тех, кто желает 
+узнать о величайших чудесах 
+этого мира. В ней вы найдёте
+основы создания инструментов,
+оружия и брони для наблюдения,
+охоты и изучения мистических 
+существ."
+
+    Затем в бестиарии говорится 
+о сверхъестественных изменениях 
+в генерации мира, начиная со 
+странных руд.
+
+
+Мистическая серебряная руда 
+встречается на той же 
+высоте, что и золотая.
+<item><iceandfire:silver_ore 0 115 22 1>
+<item><iceandfire:silver_ingot 0 135 22 1>
+<item><iceandfire:silver_nugget 0 155 22 1>
+
+
+
+
+Её можно переплавить в слитки, 
+имеющие множество применений.
+<item><iceandfire:silver_sword 0 104 50 1>
+<item><iceandfire:silver_pickaxe 0 120 50 1>
+<item><iceandfire:silver_axe 0 136 50 1>
+<item><iceandfire:silver_shovel 0 152 50 1>
+<item><iceandfire:silver_hoe 0 168 50 1>
+<item><iceandfire:armor_silver_metal_helmet 0 110 70 1>
+<item><iceandfire:armor_silver_metal_chestplate 0 125 70 1>
+<item><iceandfire:armor_silver_metal_leggings 0 140 70 1>
+<item><iceandfire:armor_silver_metal_boots 0 155 70 1>
+
+
+
+
+
+
+
+
+
+Благодаря волшебным свойствам 
+серебряное оружие наносит 
+дополнительный урон нежити.

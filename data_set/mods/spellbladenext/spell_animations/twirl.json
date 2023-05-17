@@ -1,0 +1,39 @@
+{
+    "name": "twirl",
+    "author": "Daedelus",
+    "description": "twirle",
+    "emote":{
+        "isLoop": "false",
+        "returnTick": 0,
+        "beginTick":0,
+        "endTick":160,
+        "stopTick":170,
+        "degrees":false,
+        "moves":[
+            {
+                "tick":10,
+                "easing": "EASEINOUTQUAD",
+                "turn": 0,
+                "rightArm":{
+                    "pitch":-1.57
+                }
+            },
+            {
+                "tick":10,
+                "easing": "EASEINOUTQUAD",
+                "turn": 0,
+                "rightItem":{
+                    "roll":0.0
+                }
+            },
+            {
+                "tick":160,
+                "easing": "EASEINOUTQUAD",
+                "turn": 0,
+                "rightItem":{
+                    "roll":100.53096771240234
+                }
+            }
+        ]
+    }
+}

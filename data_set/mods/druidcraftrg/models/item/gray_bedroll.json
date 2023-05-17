@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "druidcraftrg:item/gray_bedroll"
+    }
+}

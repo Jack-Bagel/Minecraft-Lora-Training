@@ -1,0 +1,34 @@
+{
+    "_comment": "Translated by TimeConqueror",
+
+
+
+
+
+
+
+
+    "reliquary.title1": "Настройки Reliquary",
+
+    "jei.reliquary.recipe.cauldron_splash": "Аптекарский котел",
+
+
+    "reliquary.waila.reliquary.mortar.ingredients": "Ингредиенты:",
+    "reliquary.waila.reliquary.mortar.result": "Результирующие эффекты зелья:",
+    "reliquary.waila.reliquary.cauldron.missing_netherwart": "Отсутствует нарост из Незера",
+    "reliquary.waila.reliquary.cauldron.missing_gunpowder": "Отсутствует порох",
+    "reliquary.waila.reliquary.cauldron.lingering": "Затяжное зелье",
+    "reliquary.waila.reliquary.cauldron.splash": "Взрывное зелье",
+    "reliquary.waila.reliquary.cauldron.potion": "Зелье",
+    "reliquary.waila.reliquary.altar.inactive": "Неактивен",
+    "reliquary.waila.reliquary.altar.active": "Активен",
+    "reliquary.waila.reliquary.altar.time_remaining": "Времени осталось: %s",
+    "reliquary.waila.reliquary.shift_for_more": "Удерживайте Shift для большей информации",
+
+
+
+    "fluid.reliquary.xpjuice": "XP-Сок",
+    "fluid.milk": "Молоко",
+
+    "reliquary.potion.flight": "Полет"
+}

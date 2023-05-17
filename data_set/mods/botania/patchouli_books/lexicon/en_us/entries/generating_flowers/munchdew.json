@@ -1,0 +1,24 @@
+{
+  "name": "botania.entry.munchdew",
+  "category": "botania:generating_flowers",
+  "icon": "botania:munchdew",
+  "advancement": "botania:main/runic_altar_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.munchdew0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.munchdew1"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "text": "botania.page.munchdew2",
+      "recipe": "botania:petal_apothecary/munchdew"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:floating_munchdew": 1
+  }
+}

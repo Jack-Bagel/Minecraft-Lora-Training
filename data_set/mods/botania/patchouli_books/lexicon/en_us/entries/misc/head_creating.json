@@ -1,0 +1,22 @@
+{
+  "name": "botania.entry.headCreating",
+  "category": "botania:misc",
+  "icon": "minecraft:player_head",
+  "entry_color": "aa00",
+  "advancement": "botania:main/elf_lexicon_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.headCreating0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.headCreating2"
+    },
+    {
+      "type": "botania:runic_altar",
+      "text": "botania.page.headCreating1",
+      "recipe": "botania:runic_altar/head"
+    }
+  ]
+}

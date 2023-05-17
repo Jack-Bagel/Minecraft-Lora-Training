@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "enderscape:block/stripped_celestial_stem_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "enderscape:block/stripped_celestial_stem"
+    },
+    "axis=z": {
+      "model": "enderscape:block/stripped_celestial_stem_horizontal",
+      "x": 90
+    }
+  }
+}

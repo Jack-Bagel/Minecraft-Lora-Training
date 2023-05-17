@@ -1,0 +1,24 @@
+{
+    "multipart": [
+		{	"apply": { "model": "druidcraftrg:block/rope_core" }
+		},
+        {   "when": { "north": "normal" },
+            "apply": { "model": "druidcraftrg:block/rope_north" }
+        },
+        {   "when": { "east": "normal" },
+            "apply": { "model": "druidcraftrg:block/rope_east" }
+        },
+        {   "when": { "south": "normal" },
+            "apply": { "model": "druidcraftrg:block/rope_south" }
+        },
+        {   "when": { "west": "normal" },
+            "apply": { "model": "druidcraftrg:block/rope_west" }
+        },
+		{   "when": { "up": "normal" },
+            "apply": { "model": "druidcraftrg:block/rope_up" }
+        },
+		{   "when": { "down": "normal" },
+            "apply": { "model": "druidcraftrg:block/rope_down" }
+        }
+    ]
+}

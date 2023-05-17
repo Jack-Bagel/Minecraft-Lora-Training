@@ -1,0 +1,48 @@
+{
+  "name": "botania.entry.corporea",
+  "category": "botania:ender",
+  "icon": "botania:corporea_spark",
+  "priority": true,
+  "entry_color": "aa00",
+  "advancement": "botania:main/elf_lexicon_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.corporea0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.corporea1"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.corporea2"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.corporea3"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.corporea4"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.corporea5"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.corporea6"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.corporea7",
+      "recipe": "botania:corporea_spark"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.corporea8",
+      "recipe": "botania:corporea_spark_master"
+    }
+  ]
+}

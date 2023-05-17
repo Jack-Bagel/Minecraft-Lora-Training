@@ -1,0 +1,35 @@
+{
+  "modifier": "霜冻",
+  "text": [
+    {
+      "text": "在工具上涂满冰龙血，能赋予工具冻结敌人的能力。"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "不能用于龙钢制工具；与炎灼冲突。"
+    },
+    {
+      "text": "\n"
+    }
+  ],
+  "effects": [
+    "冻结敌人10秒",
+    "追加额外的龙霜伤害",
+    "使敌人接下来的行动减速",
+    "仅能强化一次"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:cleaver",
+    "tconstruct:hammer",
+    "tconstruct:arrow",
+    "tconstruct:longsword",
+    "tconstruct:shortbow",
+    "tconstruct:frypan",
+    "tconstruct:crossbow",
+    "tconstruct:scythe",
+    "tconstruct:shuriken"
+  ]
+}

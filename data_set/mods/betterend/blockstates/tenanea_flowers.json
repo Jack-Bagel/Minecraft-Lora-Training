@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"shape=top": { "model": "betterend:block/tenanea_flowers_middle" },
+		"shape=middle": { "model": "betterend:block/tenanea_flowers_middle" },
+		"shape=bottom": { "model": "betterend:block/tenanea_flowers_bottom" }
+	}
+}

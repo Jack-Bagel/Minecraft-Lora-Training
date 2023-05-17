@@ -1,0 +1,39 @@
+{
+  "name": "botania.entry.terrasteel",
+  "category": "botania:basics",
+  "icon": "botania:terrasteel_ingot",
+  "priority": true,
+  "advancement": "botania:main/runic_altar_pickup",
+  "turnin": "botania:main/terrasteel_pickup_lexicon",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.terrasteel0"
+    },
+    {
+      "type": "crafting",
+      "title": "botania.page.terrasteel4",
+      "text": "botania.page.terrasteel1",
+      "recipe": "botania:terra_plate"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.terrasteel2"
+    },
+    {
+      "type": "multiblock",
+      "multiblock_id": "botania:terra_plate",
+      "text": "botania.page.terrasteel4",
+      "symmetrical": true
+    },
+    {
+      "type": "botania:terrasteel",
+      "recipe": "botania:terra_plate/terrasteel_ingot",
+      "text": "botania.page.terrasteel3"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:terrasteel_block": 1,
+    "botania:terrasteel_nugget": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "botania.entry.shulk_me_not",
+  "category": "botania:generating_flowers",
+  "icon": "botania:shulk_me_not",
+  "entry_color": "aa00",
+  "advancement": "botania:main/elf_lexicon_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.shulk_me_not0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.shulk_me_not1"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "text": "botania.page.shulk_me_not2",
+      "recipe": "botania:petal_apothecary/shulk_me_not"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:floating_shulk_me_not": 1
+  }
+}

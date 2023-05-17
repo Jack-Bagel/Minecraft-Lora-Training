@@ -1,0 +1,22 @@
+{
+  "name": "botania.entry.orechid",
+  "category": "botania:functional_flowers",
+  "icon": "botania:orechid",
+  "entry_color": "aa00",
+  "advancement": "botania:main/elf_lexicon_pickup",
+  "flag": "!mod:gardenofglass",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.orechid0"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "text": "botania.page.orechid1",
+      "recipe": "botania:petal_apothecary/orechid"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:floating_orechid": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "botania.entry.avatar",
+  "category": "botania:devices",
+  "icon": "botania:avatar",
+  "advancement": "botania:main/mana_pool_pickup_lexicon",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.avatar0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.avatar1"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.avatar2",
+      "recipe": "botania:avatar"
+    }
+  ]
+}

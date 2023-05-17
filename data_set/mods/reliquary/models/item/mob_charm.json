@@ -1,0 +1,8 @@
+{
+    "parent": "reliquary:item/default_item",
+    "textures": {
+        "layer0": "reliquary:item/mob_charm",
+        "layer1": "reliquary:item/mob_charm_overlay_1",
+        "layer2": "reliquary:item/mob_charm_overlay_2"
+    }
+}

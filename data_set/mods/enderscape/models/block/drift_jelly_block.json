@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"all": "enderscape:block/drift_jelly_block"
+	}
+}

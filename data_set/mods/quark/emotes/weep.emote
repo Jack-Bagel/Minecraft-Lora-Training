@@ -1,0 +1,37 @@
+use head
+use left_arm
+use right_arm
+
+animation sequence
+    section parallel
+        move head_y 500 0
+        move head_x 500 0.4
+        section sequence
+            section parallel
+                move left_arm_x 300 -1.9
+                move right_arm_x 300 -1.9
+                move left_arm_y 300 0.5
+                move right_arm_y 300 -0.5
+            end
+            
+            pause 250
+            move head_x 500 0 yoyo 1 200
+            pause 300
+            
+            section sequence
+                move head_x 100 0.3
+                move head_x 300 0.4
+                repeat 5 500
+            end
+            pause 1000
+        end
+    end
+    
+    section parallel
+        move head_x 300 0
+        move left_arm_x 300 0
+        move left_arm_y 300 0
+        move right_arm_x 300 0
+        move right_arm_y 300 0 
+    end
+end

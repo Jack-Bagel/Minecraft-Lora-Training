@@ -1,0 +1,36 @@
+{
+    "variants": {
+        "open=true,wall=true,facing=north":
+		[ { "model": "druidcraftrg:block/platform_wall_open" } ],
+		"open=true,wall=false,facing=north":
+		[ { "model": "druidcraftrg:block/platform_open" } ],
+		"open=true,wall=true,facing=east":
+		[ { "model": "druidcraftrg:block/platform_wall_open", "y": 90 } ],
+		"open=true,wall=false,facing=east":
+		[ { "model": "druidcraftrg:block/platform_open", "y": 90 } ],
+		"open=true,wall=true,facing=south":
+		[ { "model": "druidcraftrg:block/platform_wall_open", "y": 180 } ],
+		"open=true,wall=false,facing=south":
+		[ { "model": "druidcraftrg:block/platform_open", "y": 180 } ],
+		"open=true,wall=true,facing=west":
+		[ { "model": "druidcraftrg:block/platform_wall_open", "y": 270 } ],
+		"open=true,wall=false,facing=west":
+		[ { "model": "druidcraftrg:block/platform_open", "y": 270 } ],
+		"open=false,wall=true,facing=north":
+		[ { "model": "druidcraftrg:block/platform_wall" } ],
+		"open=false,wall=false,facing=north":
+		[ { "model": "druidcraftrg:block/platform" } ],
+		"open=false,wall=true,facing=east":
+		[ { "model": "druidcraftrg:block/platform_wall", "y": 90 } ],
+		"open=false,wall=false,facing=east":
+		[ { "model": "druidcraftrg:block/platform", "y": 90 } ],
+		"open=false,wall=true,facing=south":
+		[ { "model": "druidcraftrg:block/platform_wall", "y": 180 } ],
+		"open=false,wall=false,facing=south":
+		[ { "model": "druidcraftrg:block/platform", "y": 180 } ],
+		"open=false,wall=true,facing=west":
+		[ { "model": "druidcraftrg:block/platform_wall", "y": 270 } ],
+		"open=false,wall=false,facing=west":
+		[ { "model": "druidcraftrg:block/platform", "y": 270 } ]
+    }
+}

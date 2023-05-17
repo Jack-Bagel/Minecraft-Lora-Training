@@ -1,0 +1,69 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "enderscape:block/bulb_lantern",
+		"particle": "enderscape:item/bulb_lantern"
+	},
+	"elements": [
+		{
+			"name": "lantern",
+			"from": [5, 0, 5],
+			"to": [11, 6, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3, 8]},
+			"faces": {
+				"north": {"uv": [6, 6, 9, 9], "texture": "#0"},
+				"east": {"uv": [6, 6, 9, 9], "texture": "#0"},
+				"south": {"uv": [6, 6, 9, 9], "texture": "#0"},
+				"west": {"uv": [6, 6, 9, 9], "texture": "#0"},
+				"up": {"uv": [6, 6, 9, 9], "texture": "#0"},
+				"down": {"uv": [9, 6, 12, 9], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bell",
+			"from": [2, 4, 2],
+			"to": [14, 8, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 6, 8]},
+			"faces": {
+				"north": {"uv": [0, 6, 6, 8], "texture": "#0"},
+				"east": {"uv": [0, 6, 6, 8], "texture": "#0"},
+				"south": {"uv": [0, 6, 6, 8], "texture": "#0"},
+				"west": {"uv": [0, 6, 6, 8], "texture": "#0"},
+				"up": {"uv": [0, 0, 6, 6], "texture": "#0"},
+				"down": {"uv": [6, 0, 12, 6], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 8, 6.5],
+			"to": [8, 10, 9.5],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 9, 8]},
+			"faces": {
+				"east": {"uv": [15, 0.5, 13.5, 1.5], "texture": "#0"},
+				"west": {"uv": [15, 0.5, 13.5, 1.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.5, 8, 8],
+			"to": [9.5, 10, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 9, 8]},
+			"faces": {
+				"north": {"uv": [15, 0.5, 13.5, 1.5], "texture": "#0"},
+				"south": {"uv": [15, 0.5, 13.5, 1.5], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		0,
+		1,
+		{
+			"name": "chain",
+			"origin": [8, 13, 8],
+			"color": 0,
+			"children": [2, 3]
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "botania.entry.agricarnation",
+  "category": "botania:functional_flowers",
+  "icon": "botania:agricarnation",
+  "advancement": "botania:main/runic_altar_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.agricarnation0"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "text": "botania.page.agricarnation1",
+      "recipe": "botania:petal_apothecary/agricarnation"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:floating_agricarnation": 1
+  }
+}

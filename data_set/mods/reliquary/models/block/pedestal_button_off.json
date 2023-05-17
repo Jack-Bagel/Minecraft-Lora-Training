@@ -1,0 +1,20 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"state": "reliquary:block/pedestal_state_off"
+	},
+	"elements": [
+		{
+			"from": [4, 2, 4],
+			"to": [12, 3, 12],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 1], "rotation": 180, "texture": "#state"},
+				"east": {"uv": [7, 0, 8, 8], "rotation": 90, "texture": "#state"},
+				"south": {"uv": [0, 7, 8, 8], "texture": "#state"},
+				"west": {"uv": [0, 0, 1, 8], "rotation": 270, "texture": "#state"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#state"},
+				"down": {"uv": [0, 8, 8, 0], "texture": "#state", "cullface": "down"}
+			}
+		}
+	]
+}

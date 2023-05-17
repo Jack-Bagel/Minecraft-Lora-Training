@@ -1,0 +1,11 @@
+use head
+
+animation sequence
+	section parallel
+		move head_x 200 0.15
+		move head_y 200 0
+		move head_z 200 0
+	end
+	move head_x 200 -0.15 yoyo 4 0
+	move head_x 200 0
+end

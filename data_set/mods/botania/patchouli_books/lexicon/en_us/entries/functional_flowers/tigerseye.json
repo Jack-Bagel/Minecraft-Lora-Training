@@ -1,0 +1,20 @@
+{
+  "name": "botania.entry.tigerseye",
+  "category": "botania:functional_flowers",
+  "icon": "botania:tigerseye",
+  "advancement": "botania:main/runic_altar_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.tigerseye0"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "text": "botania.page.tigerseye1",
+      "recipe": "botania:petal_apothecary/tigerseye"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:floating_tigerseye": 1
+  }
+}

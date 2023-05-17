@@ -1,0 +1,15 @@
+{
+  "name": "botania.challenge.battery",
+  "category": "botania:challenges",
+  "icon": "botania:mana_pool",
+  "read_by_default": true,
+  "advancement": "botania:main/mana_pool_pickup_lexicon",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "quest",
+      "title": "botania.challenge.battery",
+      "text": "botania.challenge.battery.desc"
+    }
+  ]
+}

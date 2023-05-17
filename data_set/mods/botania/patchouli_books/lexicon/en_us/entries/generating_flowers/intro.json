@@ -1,0 +1,25 @@
+{
+  "name": "botania.entry.gIntro",
+  "category": "botania:generating_flowers",
+  "icon": "botania:cosmetic_questgiver_mark",
+  "priority": true,
+  "advancement": "botania:main/pure_daisy_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.gIntro0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.gIntro1"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.gIntro2"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.gIntro3"
+    }
+  ]
+}

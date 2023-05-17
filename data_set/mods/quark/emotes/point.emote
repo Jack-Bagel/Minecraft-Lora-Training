@@ -1,0 +1,5 @@
+use right_arm
+
+animation sequence
+	move right_arm_x 400 -1.57 yoyo 1 1000
+end

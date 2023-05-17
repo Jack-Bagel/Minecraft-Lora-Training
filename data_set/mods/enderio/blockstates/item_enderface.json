@@ -1,0 +1,45 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "enderio:item_generated"
+  },
+  "variants": {
+    "variant": {
+      "mobs": {
+        "textures": {
+          "layer0": "enderio:items/item_enderface_mobs"
+        }
+      },
+      "items": {
+        "textures": {
+          "layer0": "enderio:items/item_enderface_items"
+        }
+      },
+      "machines": {
+        "textures": {
+          "layer0": "enderio:items/item_enderface_machines"
+        }
+      },
+      "materials": {
+        "textures": {
+          "layer0": "enderio:items/item_enderface_materials"
+        }
+      },
+      "conduits": {
+      	"textures": {
+      	  "layer0": "enderio:items/item_enderface_conduits"
+      	}
+      },
+      "invpanel": {
+      	"textures": {
+      	  "layer0": "enderio:items/item_enderface_invpanel"
+      	}
+      },
+      "none": {
+        "textures": {
+          "layer0": "enderio:items/item_enderface_none"
+        }
+      }
+    }
+  }
+}

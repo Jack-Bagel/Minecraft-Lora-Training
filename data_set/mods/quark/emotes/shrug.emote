@@ -1,0 +1,9 @@
+use right_arm
+use left_arm
+
+animation parallel
+	move right_arm_z 400 0.7 yoyo 1 0
+	move left_arm_z 400 -0.7 yoyo 1 0
+	move right_arm_x 400 -0.7 yoyo 1 0
+	move left_arm_x 400 -0.7 yoyo 1 0
+end

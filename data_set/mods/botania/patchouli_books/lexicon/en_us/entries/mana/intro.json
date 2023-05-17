@@ -1,0 +1,22 @@
+{
+  "name": "botania.entry.mIntro",
+  "category": "botania:mana",
+  "icon": "botania:cosmetic_questgiver_mark",
+  "priority": true,
+  "advancement": "botania:main/pure_daisy_pickup",
+  "sortnum": -10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.mIntro0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.mIntro1"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.mIntro2"
+    }
+  ]
+}

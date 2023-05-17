@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "active=false" : { "model": "reliquary:block/idle_alkahestry_altar"},
+        "active=true": { "model": "reliquary:block/alkahestry_altar"}
+    }
+}

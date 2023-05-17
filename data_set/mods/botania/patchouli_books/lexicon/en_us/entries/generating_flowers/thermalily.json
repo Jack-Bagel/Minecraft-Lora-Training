@@ -1,0 +1,28 @@
+{
+  "name": "botania.entry.thermalily",
+  "category": "botania:generating_flowers",
+  "icon": "botania:thermalily",
+  "advancement": "botania:main/runic_altar_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.thermalily0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.thermalily2"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.thermalily3"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "text": "botania.page.thermalily1",
+      "recipe": "botania:petal_apothecary/thermalily"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:floating_thermalily": 1
+  }
+}

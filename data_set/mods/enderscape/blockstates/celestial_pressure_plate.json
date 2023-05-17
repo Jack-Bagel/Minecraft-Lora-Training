@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "enderscape:block/celestial_pressure_plate"
+    },
+    "powered=true": {
+      "model": "enderscape:block/celestial_pressure_plate_down"
+    }
+  }
+}

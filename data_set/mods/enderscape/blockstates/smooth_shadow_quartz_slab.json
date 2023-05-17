@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "enderscape:block/smooth_shadow_quartz_slab"
+    },
+    "type=double": {
+      "model": "enderscape:block/smooth_shadow_quartz"
+    },
+    "type=top": {
+      "model": "enderscape:block/smooth_shadow_quartz_slab_top"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+	"defaultMap": {
+		"spriteMap": [
+			{
+				"sprite": "betterend:block/tenanea_flowers",
+				"material": "betterend:wave_glow_all"
+			},
+			{
+				"sprite": "betterend:block/tenanea_flowers_bottom",
+				"material": "betterend:wave_glow_all"
+			},
+			{
+				"sprite": "betterend:block/tenanea_flowers_stem",
+				"material": "betterend:waving"
+			},
+			{
+				"sprite": "betterend:block/tenanea_flowers_stem_bottom",
+				"material": "betterend:waving"
+			}
+		]
+	}
+}

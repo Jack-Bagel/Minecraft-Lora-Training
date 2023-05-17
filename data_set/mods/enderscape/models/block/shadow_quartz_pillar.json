@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/cube_column",
+	"textures": {
+		"end": "enderscape:block/shadow_quartz_pillar_top",
+		"side": "enderscape:block/shadow_quartz_pillar"
+	}
+}

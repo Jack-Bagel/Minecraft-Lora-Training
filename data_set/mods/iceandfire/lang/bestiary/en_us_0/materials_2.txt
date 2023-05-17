@@ -1,0 +1,29 @@
+Dragon skulls are also only
+dropped once from bodies. These
+large bones are used to make
+command staffs and can be
+placed on the ground. They can
+also be put onto banners for
+a dragon shape.
+
+
+
+
+
+
+Dragon blood, both fire and
+ice variants, certainly
+have very magical properties.
+However, these properties are
+certainly elusive, and I must
+research more into them...
+
+It seems that now dragon bones
+and scales can be safely
+compacted into large cubes for
+storage. I predict that
+consolidating such a large mass
+of magical presence in a block
+could have unforeseen uses.
+<recipe><iceandfire:dragonscale_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 210 80 0.75>
+<recipe><iceandfire:dragon_bone_block 0 iceandfire:dragonbone 0 iceandfire:dragonbone 0 iceandfire:dragonbone 0 iceandfire:dragonbone 0 iceandfire:dragonbone 0 iceandfire:dragonbone 0 iceandfire:dragonbone 0 iceandfire:dragonbone 0 iceandfire:dragonbone 0 210 140 0.75>

@@ -1,0 +1,45 @@
+use head
+use right_arm
+use left_arm
+use right_leg
+use left_leg
+
+tier 1
+
+animation sequence
+    section parallel
+        move right_arm_x 200 -3.04
+        move left_arm_x 200 -3.04
+        move right_arm_z 200 -0.2
+        move left_arm_z 200 0.2
+        move head_x 200 0
+        move head_y 200 0
+        move head_z 200 0
+    end
+    section parallel
+        move right_arm_x 200 -2.5 yoyo 7 0
+        move left_arm_x 200 -2.5 yoyo 7 0
+        move head_x 200 0.2 yoyo 7 0
+
+        section sequence
+            section parallel
+                move right_leg_x 200 -1.6 
+                move right_leg_y 200 0.3
+                yoyo 3 0
+            end
+            
+            section parallel
+                move left_leg_x 200 -1.6
+                move left_leg_y 200 -0.3
+                yoyo 3 0    
+            end
+        end
+        repeat 1 0
+    end
+    section parallel
+        move right_arm_z 400 0
+        move left_arm_z 400 0
+        move right_arm_x 400 0
+        move left_arm_x 400 0
+    end
+end

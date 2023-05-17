@@ -1,0 +1,35 @@
+use head
+use left_arm
+use right_arm
+
+tier 2
+
+animation parallel
+    section sequence
+        section parallel
+            move head_x 200 0
+            move head_y 200 0
+        end
+        move head_z 1000 0.52
+        move head_z 2000 -0.52 yoyo 3 0
+        move head_z 500 0
+    end
+    
+    section sequence
+        section parallel
+            move left_arm_x 1000 -1.27
+            move right_arm_x 1000 -1.87
+        end
+        
+        section parallel
+            move left_arm_x 1000 -1.87
+            move right_arm_x 1000 -1.27
+            yoyo 7 0
+        end
+        
+        section parallel
+            move left_arm_x 500 0
+            move right_arm_x 500 0
+        end
+    end
+end

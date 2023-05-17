@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "wizards:spell_projectile/arcane_missile",
+		"particle": "wizards:spell_projectile/arcane_missile"
+	},
+	"elements": [
+		{
+			"from": [5, 4, 0],
+			"to": [11, 10, 6],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 7, 3]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 3], "texture": "#0"},
+				"east": {"uv": [0, 0, 3, 3], "texture": "#0"},
+				"south": {"uv": [0, 0, 3, 3], "texture": "#0"},
+				"west": {"uv": [0, 0, 3, 3], "texture": "#0"},
+				"up": {"uv": [0, 0, 3, 3], "texture": "#0"},
+				"down": {"uv": [0, 0, 3, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 5, 6],
+			"to": [10, 9, 10],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [3, 0, 5, 2], "texture": "#0"},
+				"east": {"uv": [3, 0, 5, 2], "texture": "#0"},
+				"south": {"uv": [3, 0, 5, 2], "texture": "#0"},
+				"west": {"uv": [3, 0, 5, 2], "texture": "#0"},
+				"up": {"uv": [3, 0, 5, 2], "texture": "#0"},
+				"down": {"uv": [3, 0, 5, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 6, 10],
+			"to": [9, 8, 12],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 7, 11]},
+			"faces": {
+				"north": {"uv": [5, 0, 6, 1], "texture": "#0"},
+				"east": {"uv": [5, 0, 6, 1], "texture": "#0"},
+				"south": {"uv": [5, 0, 6, 1], "texture": "#0"},
+				"west": {"uv": [5, 0, 6, 1], "texture": "#0"},
+				"up": {"uv": [5, 0, 6, 1], "texture": "#0"},
+				"down": {"uv": [5, 0, 6, 1], "texture": "#0"}
+			}
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "botania.entry.spectralPlatform",
+  "category": "botania:devices",
+  "icon": "botania:spectral_platform",
+  "entry_color": "aa00",
+  "advancement": "botania:main/elf_lexicon_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.spectralPlatform0"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.spectralPlatform1",
+      "recipe": "botania:spectral_platform"
+    }
+  ]
+}

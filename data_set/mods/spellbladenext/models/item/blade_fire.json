@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "spellbladenext:item/blade_fire"
+  },
+  "overrides": [
+    { "predicate":  { "custom_model_data": 1 }, "model": "spellbladenext:item/blade_fire2"}
+  ]
+}

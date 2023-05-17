@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "quark:item/slime_in_a_bucket"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "excited": 1
+            },
+            "model": "quark:item/slime_in_a_bucket_excited"
+        }
+    ]
+}

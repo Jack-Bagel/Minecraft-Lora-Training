@@ -1,0 +1,34 @@
+{
+	"variants": {
+		"stage=0": [
+			{
+				"model": "enderscape:block/blinklight_vines_head_0"
+			}
+		],
+		"stage=1": [
+			{
+				"model": "enderscape:block/blinklight_vines_head_1"
+			}
+		],
+		"stage=2": [
+			{
+				"model": "enderscape:block/blinklight_vines_head_2"
+			}
+		],
+		"stage=3": [
+			{
+				"model": "enderscape:block/blinklight_vines_head_3"
+			}
+		],
+		"stage=4": [
+			{
+				"model": "enderscape:block/blinklight_vines_head_2"
+			}
+		],
+		"stage=5": [
+			{
+				"model": "enderscape:block/blinklight_vines_head_1"
+			}
+		]
+	}
+}

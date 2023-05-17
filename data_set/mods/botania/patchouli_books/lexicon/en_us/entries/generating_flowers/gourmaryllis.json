@@ -1,0 +1,28 @@
+{
+  "name": "botania.entry.gourmaryllis",
+  "category": "botania:generating_flowers",
+  "icon": "botania:gourmaryllis",
+  "advancement": "botania:main/runic_altar_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.gourmaryllis0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.gourmaryllis1"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.gourmaryllis2"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "text": "botania.page.gourmaryllis3",
+      "recipe": "botania:petal_apothecary/gourmaryllis"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:floating_gourmaryllis": 1
+  }
+}

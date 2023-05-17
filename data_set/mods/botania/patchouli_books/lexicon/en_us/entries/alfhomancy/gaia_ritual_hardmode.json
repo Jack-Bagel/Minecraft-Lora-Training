@@ -1,0 +1,23 @@
+{
+  "name": "botania.entry.gaiaRitualHardmode",
+  "category": "botania:alfhomancy",
+  "icon": "botania:gaia_ingot",
+  "entry_color": "aa00",
+  "advancement": "botania:main/gaia_guardian_kill",
+  "turnin": "botania:challenge/gaia_guardian_hardmode",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.gaiaRitualHardmode0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.gaiaRitualHardmode1"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.gaiaRitualHardmode2",
+      "recipe": "botania:gaia_ingot"
+    }
+  ]
+}

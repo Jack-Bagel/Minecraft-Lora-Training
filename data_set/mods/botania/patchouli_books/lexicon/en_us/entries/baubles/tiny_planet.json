@@ -1,0 +1,22 @@
+{
+  "name": "botania.entry.tinyPlanet",
+  "category": "botania:baubles",
+  "icon": "botania:tiny_planet",
+  "advancement": "botania:main/mana_pool_pickup_lexicon",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.tinyPlanet0"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.tinyPlanet1",
+      "recipe": "botania:tiny_planet"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.tinyPlanet2",
+      "recipe": "botania:tiny_planet_block"
+    }
+  ]
+}

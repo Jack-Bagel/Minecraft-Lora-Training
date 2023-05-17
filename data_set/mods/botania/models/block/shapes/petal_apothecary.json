@@ -1,0 +1,93 @@
+{
+	"parent": "minecraft:block/block",
+	"textures": {
+		"particle": "#side"
+	},
+	"elements": [
+		{
+			"comment": "base",
+			"from": [ 2, 0, 2 ],
+			"to": [ 14, 2, 14 ],
+			"faces": {
+				"down": { "texture": "#bottom", "cullface": "down" },
+				"up": { "texture": "#bottom" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		},
+		{
+			"comment": "pillar",
+			"from": [ 4, 2, 4 ],
+			"to": [ 12, 11, 12 ],
+			"faces": {
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		},
+		{
+			"comment": "goblet_base",
+			"from": [ 2, 11, 2 ],
+			"to": [ 14, 12, 14 ],
+			"faces": {
+				"down": { "texture": "#bottom" },
+				"up": { "texture": "#top" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		},
+		{
+			"comment": "goblet_south",
+			"from": [ 2, 12, 13 ],
+			"to": [ 14, 16, 14 ],
+			"faces": {
+				"down": { "texture": "#bottom" },
+				"up": { "texture": "#top", "cullface": "up" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		},
+		{
+			"comment": "goblet_north",
+			"from": [ 2, 12, 2 ],
+			"to": [ 14, 16, 3 ],
+			"faces": {
+				"down": { "texture": "#bottom" },
+				"up": { "texture": "#top" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		},
+		{
+			"comment": "goblet_west",
+			"from": [ 2, 12, 3 ],
+			"to": [ 3, 16, 13 ],
+			"faces": {
+				"down": { "texture": "#bottom" },
+				"up": { "texture": "#top", "cullface": "up" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		},
+		{
+			"comment": "goblet_east",
+			"from": [ 13, 12, 3 ],
+			"to": [ 14, 16, 13 ],
+			"faces": {
+				"down": { "texture": "#bottom" },
+				"up": { "texture": "#top", "cullface": "up" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		}
+	]
+}

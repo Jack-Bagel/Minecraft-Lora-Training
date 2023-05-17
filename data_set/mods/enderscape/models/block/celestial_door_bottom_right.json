@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/door_bottom_right",
+	"textures": {
+		"bottom": "enderscape:block/celestial_door_bottom",
+		"top": "enderscape:block/celestial_door_top"
+	}
+}

@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "composting=0": [
+      { "model": "nethersdelight:block/soul_compost_0" },
+      { "model": "nethersdelight:block/soul_compost_0", "y": 90 },
+      { "model": "nethersdelight:block/soul_compost_0", "y": 180 },
+      { "model": "nethersdelight:block/soul_compost_0", "y": 270 }
+    ],
+    "composting=1": [
+      { "model": "nethersdelight:block/soul_compost_1" },
+      { "model": "nethersdelight:block/soul_compost_1", "y": 90 },
+      { "model": "nethersdelight:block/soul_compost_1", "y": 180 },
+      { "model": "nethersdelight:block/soul_compost_1", "y": 270 }
+    ],
+    "composting=2": [
+      { "model": "nethersdelight:block/soul_compost_2" },
+      { "model": "nethersdelight:block/soul_compost_2", "y": 90 },
+      { "model": "nethersdelight:block/soul_compost_2", "y": 180 },
+      { "model": "nethersdelight:block/soul_compost_2", "y": 270 }
+    ],
+    "composting=3": [
+      { "model": "nethersdelight:block/soul_compost_3" },
+      { "model": "nethersdelight:block/soul_compost_3", "y": 90 },
+      { "model": "nethersdelight:block/soul_compost_3", "y": 180 },
+      { "model": "nethersdelight:block/soul_compost_3", "y": 270 }
+    ]
+  }
+}

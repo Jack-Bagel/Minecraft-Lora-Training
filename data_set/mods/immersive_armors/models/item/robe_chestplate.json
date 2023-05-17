@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "immersive_armors:item/robe_chestplate",
+    "layer1": "immersive_armors:item/robe_chestplate_overlay"
+  }
+}

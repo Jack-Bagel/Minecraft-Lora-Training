@@ -1,0 +1,24 @@
+{
+  "name": "botania.entry.entropinnyum",
+  "category": "botania:generating_flowers",
+  "icon": "botania:entropinnyum",
+  "advancement": "botania:main/runic_altar_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.entropinnyum0"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "text": "botania.page.entropinnyum1",
+      "recipe": "botania:petal_apothecary/entropinnyum"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.entropinnyum2"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:floating_entropinnyum": 1
+  }
+}

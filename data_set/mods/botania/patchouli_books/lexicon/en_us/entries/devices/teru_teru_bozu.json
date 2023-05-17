@@ -1,0 +1,17 @@
+{
+  "name": "botania.entry.teruTeruBozu",
+  "category": "botania:devices",
+  "icon": "botania:teru_teru_bozu",
+  "advancement": "botania:main/mana_pool_pickup_lexicon",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.teruTeruBozu0"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.teruTeruBozu1",
+      "recipe": "botania:teru_teru_bozu"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "botania:block/metamorphic_taiga_bricks",
+    "side": "botania:block/metamorphic_taiga_bricks",
+    "top": "botania:block/metamorphic_taiga_bricks"
+  }
+}

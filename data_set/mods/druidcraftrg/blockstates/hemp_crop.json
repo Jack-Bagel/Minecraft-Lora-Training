@@ -1,0 +1,84 @@
+{
+    "variants": {
+        "bottom=true,age=0":
+		[ { "model": "druidcraftrg:block/hemp_crop_bottom_0" },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_0", "y": 90 },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_0", "y": 180 },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_0", "y": 270 } ],
+		"bottom=true,age=1":
+		[ { "model": "druidcraftrg:block/hemp_crop_bottom_1" },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_1", "y": 90 },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_1", "y": 180 },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_1", "y": 270 } ],
+        "bottom=true,age=2":
+		[ { "model": "druidcraftrg:block/hemp_crop_bottom_2" },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_2", "y": 90 },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_2", "y": 180 },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_2", "y": 270 } ],
+		"bottom=true,age=3":
+		[ { "model": "druidcraftrg:block/hemp_crop_bottom_3" },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_3", "y": 90 },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_3", "y": 180 },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_3", "y": 270 } ],
+		"bottom=true,age=4":
+		[ { "model": "druidcraftrg:block/hemp_crop_bottom_4" },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_4", "y": 90 },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_4", "y": 180 },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_4", "y": 270 } ],
+		"bottom=true,age=5":
+		[ { "model": "druidcraftrg:block/hemp_crop_bottom_5" },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_5", "y": 90 },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_5", "y": 180 },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_5", "y": 270 } ],
+		"bottom=true,age=6":
+		[ { "model": "druidcraftrg:block/hemp_crop_bottom_6" },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_6", "y": 90 },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_6", "y": 180 },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_6", "y": 270 } ],
+		"bottom=true,age=7":
+		[ { "model": "druidcraftrg:block/hemp_crop_bottom_7" },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_7", "y": 90 },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_7", "y": 180 },
+		{ "model": "druidcraftrg:block/hemp_crop_bottom_7", "y": 270 } ],
+		"bottom=false,age=0":
+		[ { "model": "druidcraftrg:block/hemp_crop_top_0" },
+		{ "model": "druidcraftrg:block/hemp_crop_top_0", "y": 90 },
+		{ "model": "druidcraftrg:block/hemp_crop_top_0", "y": 180 },
+		{ "model": "druidcraftrg:block/hemp_crop_top_0", "y": 270 } ],
+		"bottom=false,age=1":
+		[ { "model": "druidcraftrg:block/hemp_crop_top_1" },
+		{ "model": "druidcraftrg:block/hemp_crop_top_1", "y": 90 },
+		{ "model": "druidcraftrg:block/hemp_crop_top_1", "y": 180 },
+		{ "model": "druidcraftrg:block/hemp_crop_top_1", "y": 270 } ],
+        "bottom=false,age=2":
+		[ { "model": "druidcraftrg:block/hemp_crop_top_2" },
+		{ "model": "druidcraftrg:block/hemp_crop_top_2", "y": 90 },
+		{ "model": "druidcraftrg:block/hemp_crop_top_2", "y": 180 },
+		{ "model": "druidcraftrg:block/hemp_crop_top_2", "y": 270 } ],
+		"bottom=false,age=3":
+		[ { "model": "druidcraftrg:block/hemp_crop_top_3" },
+		{ "model": "druidcraftrg:block/hemp_crop_top_3", "y": 90 },
+		{ "model": "druidcraftrg:block/hemp_crop_top_3", "y": 180 },
+		{ "model": "druidcraftrg:block/hemp_crop_top_3", "y": 270 } ],
+		"bottom=false,age=4":
+		[ { "model": "druidcraftrg:block/hemp_crop_top_4" },
+		{ "model": "druidcraftrg:block/hemp_crop_top_4", "y": 90 },
+		{ "model": "druidcraftrg:block/hemp_crop_top_4", "y": 180 },
+		{ "model": "druidcraftrg:block/hemp_crop_top_4", "y": 270 } ],
+		"bottom=false,age=5":
+		[ { "model": "druidcraftrg:block/hemp_crop_top_5" },
+		{ "model": "druidcraftrg:block/hemp_crop_top_5", "y": 90 },
+		{ "model": "druidcraftrg:block/hemp_crop_top_5", "y": 180 },
+		{ "model": "druidcraftrg:block/hemp_crop_top_5", "y": 270 } ],
+		"bottom=false,age=6":
+		[ { "model": "druidcraftrg:block/hemp_crop_top_6" },
+		{ "model": "druidcraftrg:block/hemp_crop_top_6", "y": 90 },
+		{ "model": "druidcraftrg:block/hemp_crop_top_6", "y": 180 },
+		{ "model": "druidcraftrg:block/hemp_crop_top_6", "y": 270 } ],
+		"bottom=false,age=7":
+		[ { "model": "druidcraftrg:block/hemp_crop_top_7" },
+		{ "model": "druidcraftrg:block/hemp_crop_top_7", "y": 90 },
+		{ "model": "druidcraftrg:block/hemp_crop_top_7", "y": 180 },
+		{ "model": "druidcraftrg:block/hemp_crop_top_7", "y": 270 } ]
+    }
+}

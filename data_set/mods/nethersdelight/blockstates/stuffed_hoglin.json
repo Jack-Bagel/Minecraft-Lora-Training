@@ -1,0 +1,364 @@
+{
+  "variants": {
+    "facing=north,servings=0,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_tray_head",
+      "y": 180
+    },
+    "facing=south,servings=0,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_tray_head"
+    },
+    "facing=west,servings=0,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_tray_head",
+      "y": 90
+    },
+    "facing=east,servings=0,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_tray_head",
+      "y": 270
+    },
+    "facing=north,servings=1,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head1",
+      "y": 180
+    },
+    "facing=south,servings=1,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head1"
+    },
+    "facing=west,servings=1,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head1",
+      "y": 90
+    },
+    "facing=east,servings=1,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head1",
+      "y": 270
+    },
+    "facing=north,servings=2,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head2",
+      "y": 180
+    },
+    "facing=south,servings=2,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head2"
+    },
+    "facing=west,servings=2,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head2",
+      "y": 90
+    },
+    "facing=east,servings=2,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head2",
+      "y": 270
+    },
+    "facing=north,servings=3,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head3",
+      "y": 180
+    },
+    "facing=south,servings=3,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head3"
+    },
+    "facing=west,servings=3,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head3",
+      "y": 90
+    },
+    "facing=east,servings=3,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head3",
+      "y": 270
+    },
+    "facing=north,servings=4,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head4",
+      "y": 180
+    },
+    "facing=south,servings=4,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head4"
+    },
+    "facing=west,servings=4,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head4",
+      "y": 90
+    },
+    "facing=east,servings=4,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head4",
+      "y": 270
+    },
+	"facing=north,servings=5,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head5",
+      "y": 180
+    },
+    "facing=south,servings=5,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head5"
+    },
+    "facing=west,servings=5,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head5",
+      "y": 90
+    },
+    "facing=east,servings=5,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head5",
+      "y": 270
+    },
+	"facing=north,servings=6,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head6",
+      "y": 180
+    },
+    "facing=south,servings=6,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head6"
+    },
+    "facing=west,servings=6,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head6",
+      "y": 90
+    },
+    "facing=east,servings=6,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head6",
+      "y": 270
+    },
+	"facing=north,servings=7,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head7",
+      "y": 180
+    },
+    "facing=south,servings=7,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head7"
+    },
+    "facing=west,servings=7,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head7",
+      "y": 90
+    },
+    "facing=east,servings=7,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head7",
+      "y": 270
+    },
+	"facing=north,servings=8,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head8",
+      "y": 180
+    },
+    "facing=south,servings=8,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head8"
+    },
+    "facing=west,servings=8,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head8",
+      "y": 90
+    },
+    "facing=east,servings=8,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head8",
+      "y": 270
+    },
+	"facing=north,servings=9,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head9",
+      "y": 180
+    },
+    "facing=south,servings=9,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head9"
+    },
+    "facing=west,servings=9,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head9",
+      "y": 90
+    },
+    "facing=east,servings=9,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head9",
+      "y": 270
+    },
+	"facing=north,servings=10,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head10",
+      "y": 180
+    },
+    "facing=south,servings=10,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head10"
+    },
+    "facing=west,servings=10,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head10",
+      "y": 90
+    },
+    "facing=east,servings=10,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head10",
+      "y": 270
+    },
+	"facing=north,servings=11,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head11",
+      "y": 180
+    },
+    "facing=south,servings=11,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head11"
+    },
+    "facing=west,servings=11,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head11",
+      "y": 90
+    },
+    "facing=east,servings=11,part=head": {
+      "model": "nethersdelight:block/stuffed_hoglin_head11",
+      "y": 270
+    },
+	"facing=north,servings=0,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_tray_foot",
+      "y": 180
+    },
+    "facing=south,servings=0,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_tray_foot"
+    },
+    "facing=west,servings=0,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_tray_foot",
+      "y": 90
+    },
+    "facing=east,servings=0,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_tray_foot",
+      "y": 270
+    },
+    "facing=north,servings=1,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot1",
+      "y": 180
+    },
+    "facing=south,servings=1,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot1"
+    },
+    "facing=west,servings=1,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot1",
+      "y": 90
+    },
+    "facing=east,servings=1,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot1",
+      "y": 270
+    },
+    "facing=north,servings=2,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot2",
+      "y": 180
+    },
+    "facing=south,servings=2,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot2"
+    },
+    "facing=west,servings=2,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot2",
+      "y": 90
+    },
+    "facing=east,servings=2,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot2",
+      "y": 270
+    },
+    "facing=north,servings=3,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot3",
+      "y": 180
+    },
+    "facing=south,servings=3,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot3"
+    },
+    "facing=west,servings=3,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot3",
+      "y": 90
+    },
+    "facing=east,servings=3,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot3",
+      "y": 270
+    },
+    "facing=north,servings=4,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot4",
+      "y": 180
+    },
+    "facing=south,servings=4,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot4"
+    },
+    "facing=west,servings=4,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot4",
+      "y": 90
+    },
+    "facing=east,servings=4,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot4",
+      "y": 270
+    },
+	"facing=north,servings=5,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot5",
+      "y": 180
+    },
+    "facing=south,servings=5,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot5"
+    },
+    "facing=west,servings=5,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot5",
+      "y": 90
+    },
+    "facing=east,servings=5,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot5",
+      "y": 270
+    },
+	"facing=north,servings=6,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot6",
+      "y": 180
+    },
+    "facing=south,servings=6,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot6"
+    },
+    "facing=west,servings=6,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot6",
+      "y": 90
+    },
+    "facing=east,servings=6,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot6",
+      "y": 270
+    },
+	"facing=north,servings=7,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot7",
+      "y": 180
+    },
+    "facing=south,servings=7,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot7"
+    },
+    "facing=west,servings=7,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot7",
+      "y": 90
+    },
+    "facing=east,servings=7,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot7",
+      "y": 270
+    },
+	"facing=north,servings=8,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot8",
+      "y": 180
+    },
+    "facing=south,servings=8,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot8"
+    },
+    "facing=west,servings=8,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot8",
+      "y": 90
+    },
+    "facing=east,servings=8,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot8",
+      "y": 270
+    },
+	"facing=north,servings=9,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot9",
+      "y": 180
+    },
+    "facing=south,servings=9,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot9"
+    },
+    "facing=west,servings=9,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot9",
+      "y": 90
+    },
+    "facing=east,servings=9,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot9",
+      "y": 270
+    },
+	"facing=north,servings=10,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot10",
+      "y": 180
+    },
+    "facing=south,servings=10,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot10"
+    },
+    "facing=west,servings=10,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot10",
+      "y": 90
+    },
+    "facing=east,servings=10,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot10",
+      "y": 270
+    },
+	"facing=north,servings=11,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot11",
+      "y": 180
+    },
+    "facing=south,servings=11,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot11"
+    },
+    "facing=west,servings=11,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot11",
+      "y": 90
+    },
+    "facing=east,servings=11,part=foot": {
+      "model": "nethersdelight:block/stuffed_hoglin_foot11",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "enderscape:block/shadow_quartz_pillar_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "enderscape:block/shadow_quartz_pillar"
+    },
+    "axis=z": {
+      "model": "enderscape:block/shadow_quartz_pillar_horizontal",
+      "x": 90
+    }
+  }
+}

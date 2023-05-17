@@ -1,0 +1,20 @@
+{
+  "name": "botania.entry.bellethorne",
+  "category": "botania:functional_flowers",
+  "icon": "botania:bellethorn",
+  "advancement": "botania:main/mana_pool_pickup_lexicon",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.bellethorne0"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "text": "botania.page.bellethorne1",
+      "recipe": "botania:petal_apothecary/bellethorn"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:floating_bellethorn": 1
+  }
+}

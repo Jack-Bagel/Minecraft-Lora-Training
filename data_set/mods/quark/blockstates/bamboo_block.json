@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "quark:block/bamboo_block" },
+        "axis=z":   { "model": "quark:block/bamboo_block", "x": 90 },
+        "axis=x":   { "model": "quark:block/bamboo_block", "x": 90, "y": 90 }
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/block",
+  "render_type": "cutout",
+  "textures": {
+    "particle": "alexsmobs:item/void_worm_beak"
+  }
+}

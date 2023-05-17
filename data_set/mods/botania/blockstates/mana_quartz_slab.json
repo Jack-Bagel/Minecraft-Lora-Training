@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "botania:block/mana_quartz_slab"
+    },
+    "type=double": {
+      "model": "botania:block/mana_quartz"
+    },
+    "type=top": {
+      "model": "botania:block/mana_quartz_slab_top"
+    }
+  }
+}

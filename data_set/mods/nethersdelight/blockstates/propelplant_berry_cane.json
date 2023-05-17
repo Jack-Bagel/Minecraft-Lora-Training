@@ -1,0 +1,10 @@
+{
+  "variants": {
+	  "pearl=false": {
+      	"model": "nethersdelight:block/propelplant_berry_cane"
+		},
+	  "pearl=true": {
+      	"model": "nethersdelight:block/propelplant_berry_cane_berry"
+    }
+  }
+}

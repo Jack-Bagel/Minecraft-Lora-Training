@@ -1,0 +1,25 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "enderscape:block/unripe_flanger_berry_block",
+		"1": "enderscape:block/unripe_flanger_berry_block_top",
+		"2": "enderscape:block/unripe_flanger_berry_block_bottom",
+		"particle": "enderscape:block/unripe_flanger_berry_block_particle"
+	},
+	"elements": [
+		{
+			"from": [2, 4, 2],
+			"to": [14, 16, 14],
+			"faces": {
+				"north": {"uv": [2, 2, 14, 14], "texture": "#0"},
+				"east": {"uv": [2, 2, 14, 14], "texture": "#0"},
+				"south": {"uv": [2, 2, 14, 14], "texture": "#0"},
+				"west": {"uv": [2, 2, 14, 14], "texture": "#0"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#1", "cullface": "up"},
+				"down": {"uv": [2, 2, 14, 14], "texture": "#2"}
+			}
+		}
+	]
+}

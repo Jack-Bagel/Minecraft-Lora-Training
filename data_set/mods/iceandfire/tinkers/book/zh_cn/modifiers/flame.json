@@ -1,0 +1,34 @@
+{
+  "modifier": "炎灼",
+  "text": [
+    {
+      "text": "在工具上涂满火龙血，能赋予工具灼烧敌人的能力。"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "不能用于龙钢制工具；与霜冻冲突。"
+    },
+    {
+      "text": "\n"
+    }
+  ],
+  "effects": [
+    "点燃敌人10秒",
+    "追加额外的龙炎伤害",
+    "仅能强化一次"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:cleaver",
+    "tconstruct:hammer",
+    "tconstruct:arrow",
+    "tconstruct:longsword",
+    "tconstruct:shortbow",
+    "tconstruct:frypan",
+    "tconstruct:crossbow",
+    "tconstruct:scythe",
+    "tconstruct:shuriken"
+  ]
+}

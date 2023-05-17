@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "druidcraftrg:block/crates/oak_crate_small_front",
+    "north": "druidcraftrg:block/crates/oak_crate_small_front",
+    "south": "druidcraftrg:block/crates/oak_crate_big_front_2",
+    "east": "druidcraftrg:block/crates/oak_crate_big_side_1",
+    "west": "druidcraftrg:block/crates/oak_crate_small_front",
+    "up": "druidcraftrg:block/crates/oak_crate_big_top_4",
+    "down": "druidcraftrg:block/crates/oak_crate_small_front"
+  }
+}

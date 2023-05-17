@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "enderscape:block/shadow_quartz_brick_slab"
+    },
+    "type=double": {
+      "model": "enderscape:block/shadow_quartz_bricks"
+    },
+    "type=top": {
+      "model": "enderscape:block/shadow_quartz_brick_slab_top"
+    }
+  }
+}

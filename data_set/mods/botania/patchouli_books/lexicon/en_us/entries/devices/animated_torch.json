@@ -1,0 +1,25 @@
+{
+  "name": "botania.entry.animatedTorch",
+  "category": "botania:devices",
+  "icon": "botania:animated_torch",
+  "advancement": "botania:main/mana_pool_pickup_lexicon",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.animatedTorch0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.animatedTorch1"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.animatedTorch2"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.animatedTorch3",
+      "recipe": "botania:animated_torch"
+    }
+  ]
+}

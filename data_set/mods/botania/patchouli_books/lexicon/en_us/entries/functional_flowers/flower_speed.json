@@ -1,0 +1,17 @@
+{
+  "name": "botania.entry.flowerSpeed",
+  "category": "botania:functional_flowers",
+  "icon": "minecraft:podzol",
+  "priority": true,
+  "advancement": "botania:main/mana_pool_pickup_lexicon",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.flowerSpeed0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.flowerSpeed1"
+    }
+  ]
+}

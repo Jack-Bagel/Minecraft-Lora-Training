@@ -1,0 +1,8 @@
+use head
+
+tier 2
+
+animation parallel
+    move head_y 7500 6.28
+    move head_x 750 -0.05 yoyo 9 0
+end

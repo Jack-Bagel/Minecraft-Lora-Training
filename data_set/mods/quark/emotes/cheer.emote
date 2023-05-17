@@ -1,0 +1,21 @@
+use right_arm
+use left_arm
+
+animation sequence
+	section parallel
+		move right_arm_x 200 -3.04
+		move left_arm_x 200 -3.04
+		move right_arm_z 200 -0.2
+		move left_arm_z 200 0.2
+	end
+	section parallel
+		move right_arm_x 150 -2.64 yoyo 11 0
+		move left_arm_x 150 -2.64 yoyo 11 0
+	end
+	section parallel
+		move right_arm_z 400 0
+		move left_arm_z 400 0
+		move right_arm_x 400 0
+		move left_arm_x 400 0
+	end
+end

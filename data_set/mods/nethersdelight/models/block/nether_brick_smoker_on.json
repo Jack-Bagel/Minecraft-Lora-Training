@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "nethersdelight:block/nether_brick_smoker_top",
+    "bottom": "nethersdelight:block/nether_brick_smoker_bottom",
+    "front": "nethersdelight:block/nether_brick_smoker_front_on",
+    "side": "nethersdelight:block/nether_brick_smoker_side"
+  }
+}

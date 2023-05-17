@@ -1,0 +1,16 @@
+{
+  "name": "botania.challenge.autoQuarry",
+  "category": "botania:challenges",
+  "icon": "minecraft:diamond_pickaxe",
+  "read_by_default": true,
+  "advancement": "botania:main/mana_pool_pickup_lexicon",
+  "entry_color": "aa00aa",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "quest",
+      "title": "botania.challenge.autoQuarry",
+      "text": "botania.challenge.autoQuarry.desc"
+    }
+  ]
+}

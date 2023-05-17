@@ -1,0 +1,245 @@
+{
+	"__comment": "Model written by 3ddy",
+	"textures": {
+			"all": "enderio:blocks/block_transceiver"
+	},
+	"elements": [
+		{
+			"name": "Corner1",
+			"from": [0.0, 0.0, 0.0],
+			"to"  : [4.0, 4.0, 4.0],
+			"faces": {
+				"west" : { "texture": "#all", "cullface": "west"  },
+				"down" : { "texture": "#all", "cullface": "down"  },
+				"north": { "texture": "#all", "cullface": "north" },
+				"east" : { "texture": "#all" },
+				"up"   : { "texture": "#all" },
+				"south": { "texture": "#all" }
+			}
+		},
+		{
+			"name": "Corner2",
+			"from": [12.0, 0.0, 0.0],
+			"to"  : [16.0, 4.0, 4.0],
+			"faces": {
+				"east" : { "texture": "#all", "cullface": "east"  },
+				"down" : { "texture": "#all", "cullface": "down"  },
+				"north": { "texture": "#all", "cullface": "north" },
+				"west" : { "texture": "#all" },
+				"up"   : { "texture": "#all" },
+				"south": { "texture": "#all" }
+			}
+		},
+		{
+			"name": "Corner3",
+			"from": [0.0, 0.0, 12.0],
+			"to"  : [4.0, 4.0, 16.0],
+			"faces": {
+				"west" : { "texture": "#all", "cullface": "west"  },
+				"down" : { "texture": "#all", "cullface": "down"  },
+				"south": { "texture": "#all", "cullface": "south" },
+				"east" : { "texture": "#all" },
+				"up"   : { "texture": "#all" },
+				"north": { "texture": "#all" }
+			}
+		},
+		{
+			"name": "Corner4",
+			"from": [12.0, 0.0, 12.0],
+			"to"  : [16.0, 4.0, 16.0],
+			"faces": {
+				"east" : { "texture": "#all", "cullface": "east"  },
+				"down" : { "texture": "#all", "cullface": "down"  },
+				"south": { "texture": "#all", "cullface": "south" },
+				"west" : { "texture": "#all" },
+				"up"   : { "texture": "#all" },
+				"north": { "texture": "#all" }
+			}
+		},
+		{
+			"name": "Corner5",
+			"from": [0.0, 12.0, 0.0],
+			"to"  : [4.0, 16.0, 4.0],
+			"faces": {
+				"west" : { "texture": "#all", "cullface": "west"  },
+				"up"   : { "texture": "#all", "cullface": "up"    },
+				"north": { "texture": "#all", "cullface": "north" },
+				"east" : { "texture": "#all" },
+				"down" : { "texture": "#all" },
+				"south": { "texture": "#all" }
+			}
+		},
+		{
+			"name": "Corner6",
+			"from": [12.0, 12.0, 0.0],
+			"to"  : [16.0, 16.0, 4.0],
+			"faces": {
+				"east" : { "texture": "#all", "cullface": "east"  },
+				"up"   : { "texture": "#all", "cullface": "up"    },
+				"north": { "texture": "#all", "cullface": "north" },
+				"west" : { "texture": "#all" },
+				"down" : { "texture": "#all" },
+				"south": { "texture": "#all" }
+			}
+		},
+		{
+			"name": "Corner7",
+			"from": [0.0, 12.0, 12.0],
+			"to"  : [4.0, 16.0, 16.0],
+			"faces": {
+				"west" : { "texture": "#all", "cullface": "west"  },
+				"up"   : { "texture": "#all", "cullface": "up"    },
+				"south": { "texture": "#all", "cullface": "south" },
+				"east" : { "texture": "#all" },
+				"down" : { "texture": "#all" },
+				"north": { "texture": "#all" }
+			}
+		},
+		{
+			"name": "Corner8",
+			"from": [12.0, 12.0, 12.0],
+			"to"  : [16.0, 16.0, 16.0],
+			"faces": {
+				"east" : { "texture": "#all", "cullface": "east"  },
+				"up"   : { "texture": "#all", "cullface": "up"    },
+				"south": { "texture": "#all", "cullface": "south" },
+				"west" : { "texture": "#all" },
+				"down" : { "texture": "#all" },
+				"north": { "texture": "#all" }
+			}
+		},
+
+		{
+			"name": "Bar1",
+			"from": [ 4.0, 0.5, 0.5],
+			"to"  : [12.0, 3.5, 3.5],
+			"faces": {
+				"up"   : { "texture": "#all" },
+				"south": { "texture": "#all" },
+				"down" : { "texture": "#all" },
+				"north": { "texture": "#all" }
+			}
+		},
+		{
+			"name": "Bar2",
+			"from": [ 4.0, 12.5, 0.5],
+			"to"  : [12.0, 15.5, 3.5],
+			"faces": {
+				"up"   : { "texture": "#all" },
+				"south": { "texture": "#all" },
+				"down" : { "texture": "#all" },
+				"north": { "texture": "#all" }
+			}
+		},
+		{
+			"name": "Bar3",
+			"from": [ 4.0, 0.5, 12.5],
+			"to"  : [12.0, 3.5, 15.5],
+			"faces": {
+				"up"   : { "texture": "#all" },
+				"south": { "texture": "#all" },
+				"down" : { "texture": "#all" },
+				"north": { "texture": "#all" }
+			}
+		},
+		{
+			"name": "Bar4",
+			"from": [ 4.0, 12.5, 12.5],
+			"to"  : [12.0, 15.5, 15.5],
+			"faces": {
+				"up"   : { "texture": "#all" },
+				"south": { "texture": "#all" },
+				"down" : { "texture": "#all" },
+				"north": { "texture": "#all" }
+			}
+		},
+		{
+			"name": "Bar5",
+			"from": [0.5,  4.0, 0.5],
+			"to"  : [3.5, 12.0, 3.5],
+			"faces": {
+				"east" : { "texture": "#all" },
+				"south": { "texture": "#all" },
+				"west" : { "texture": "#all" },
+				"north": { "texture": "#all" }
+			}
+		},
+		{
+			"name": "Bar6",
+			"from": [12.5,  4.0, 0.5],
+			"to"  : [15.5, 12.0, 3.5],
+			"faces": {
+				"east" : { "texture": "#all" },
+				"south": { "texture": "#all" },
+				"west" : { "texture": "#all" },
+				"north": { "texture": "#all" }
+			}
+		},
+		{
+			"name": "Bar7",
+			"from": [0.5,  4.0, 12.5],
+			"to"  : [3.5, 12.0, 15.5],
+			"faces": {
+				"east" : { "texture": "#all" },
+				"south": { "texture": "#all" },
+				"west" : { "texture": "#all" },
+				"north": { "texture": "#all" }
+			}
+		},
+		{
+			"name": "Bar8",
+			"from": [12.5,  4.0, 12.5],
+			"to"  : [15.5, 12.0, 15.5],
+			"faces": {
+				"east" : { "texture": "#all" },
+				"south": { "texture": "#all" },
+				"west" : { "texture": "#all" },
+				"north": { "texture": "#all" }
+			}
+		},
+		{
+			"name": "Bar9",
+			"from": [0.5, 0.5,  4.0],
+			"to"  : [3.5, 3.5, 12.0],
+			"faces": {
+				"east" : { "texture": "#all" },
+				"up"   : { "texture": "#all" },
+				"west" : { "texture": "#all" },
+				"down" : { "texture": "#all" }
+			}
+		},
+		{
+			"name": "Bar10",
+			"from": [12.5, 0.5,  4.0],
+			"to"  : [15.5, 3.5, 12.0],
+			"faces": {
+				"east" : { "texture": "#all" },
+				"up"   : { "texture": "#all" },
+				"west" : { "texture": "#all" },
+				"down" : { "texture": "#all" }
+			}
+		},
+		{
+			"name": "Bar11",
+			"from": [0.5, 12.5,  4.0 ],
+			"to"  : [3.5, 15.5, 12.0 ],
+			"faces": {
+				"east" : { "texture": "#all" },
+				"up"   : { "texture": "#all" },
+				"west" : { "texture": "#all" },
+				"down" : { "texture": "#all" }
+			}
+		},
+		{
+			"name": "Bar12",
+			"from": [12.5, 12.5,  4.0 ],
+			"to"  : [15.5, 15.5, 12.0 ],
+			"faces": {
+				"east" : { "texture": "#all" },
+				"up"   : { "texture": "#all" },
+				"west" : { "texture": "#all" },
+				"down" : { "texture": "#all" }
+			}
+		}
+	]
+}

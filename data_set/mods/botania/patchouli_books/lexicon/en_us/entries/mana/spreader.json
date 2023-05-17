@@ -1,0 +1,49 @@
+{
+  "name": "botania.entry.spreader",
+  "category": "botania:mana",
+  "icon": "botania:mana_spreader",
+  "priority": true,
+  "advancement": "botania:main/pure_daisy_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.spreader0"
+    },
+    {
+      "type": "image",
+      "text": "botania.page.spreader1",
+      "images": [
+        "botania:textures/gui/entries/spreader.png"
+      ]
+    },
+    {
+      "type": "text",
+      "text": "botania.page.spreader2"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.spreader3"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.spreader4"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.spreader11"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.spreader5",
+      "recipe": "botania:mana_spreader"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.spreader10"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.spreader12"
+    }
+  ]
+}

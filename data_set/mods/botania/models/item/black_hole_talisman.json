@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "overrides": [
+    {
+      "model": "botania:item/black_hole_talisman_active",
+      "predicate": {
+        "botania:active": 1.0
+      }
+    }
+  ],
+  "textures": {
+    "layer0": "botania:item/black_hole_talisman"
+  }
+}

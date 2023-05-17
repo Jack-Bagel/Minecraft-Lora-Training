@@ -1,0 +1,14 @@
+{
+	"defaultMap": {
+		"spriteMap": [
+			{
+				"sprite": "betterend:block/creeping_moss_spores",
+				"material": "betterend:waving_floor_glow_half"
+			},
+			{
+				"sprite": "betterend:block/creeping_moss_leaves",
+				"material": "betterend:waving_floor"
+			}
+		]
+	}
+}

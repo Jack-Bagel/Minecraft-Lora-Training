@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "enderscape:block/flanger_berry_vine"
+  }
+}

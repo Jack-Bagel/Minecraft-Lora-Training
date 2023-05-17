@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/cube_column",
+	"textures": {
+		"end": "enderscape:block/celestial_stem",
+		"side": "enderscape:block/celestial_stem"
+	}
+}

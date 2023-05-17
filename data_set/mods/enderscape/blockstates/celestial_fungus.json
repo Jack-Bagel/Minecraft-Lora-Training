@@ -1,0 +1,46 @@
+{
+	"variants": {
+		"facing=east": [
+			{
+				"model": "enderscape:block/celestial_fungus",
+				"x": 90,
+				"y": 90
+			}
+		],
+		"facing=north": [
+			{
+				"model": "enderscape:block/celestial_fungus",
+				"x": 90,
+				"y": 0
+			}
+		],
+		"facing=south": [
+			{
+				"model": "enderscape:block/celestial_fungus",
+				"x": 90,
+				"y": 180
+			}
+		],
+		"facing=west": [
+			{
+				"model": "enderscape:block/celestial_fungus",
+				"x": 90,
+				"y": 270
+			}
+		],
+		"facing=down": [
+			{
+				"model": "enderscape:block/celestial_fungus",
+				"x": 180,
+				"y": 0
+			}
+		],
+		"facing=up": [
+			{
+				"model": "enderscape:block/celestial_fungus",
+				"x": 0,
+				"y": 0
+			}
+		]
+	}
+}

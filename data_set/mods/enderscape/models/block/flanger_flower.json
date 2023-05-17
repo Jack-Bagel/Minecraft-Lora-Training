@@ -1,0 +1,62 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
+	"ambientocclusion": false,
+	"textures": {
+		"flower": "enderscape:block/flanger_flower",
+		"particle": "enderscape:block/flanger_flower_base",
+		"base": "enderscape:block/flanger_flower_base"
+	},
+	"elements": [
+		{
+			"from": [1, 15.9, 1],
+			"to": [15, 15.9, 15],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 15.9, 8]},
+			"faces": {
+				"up": {"uv": [1, 1, 15, 15], "texture": "#base"},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#base"}
+			}
+		},
+		{
+			"from": [0, 15.7, -1],
+			"to": [16, 15.7, 8],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 15.7, 8]},
+			"faces": {
+				"up": {"uv": [0, 8, 16, 16], "texture": "#flower"},
+				"down": {"uv": [0, 7, 16, 16], "rotation": 180, "texture": "#flower"}
+			}
+		},
+		{
+			"from": [-1, 15.7, 0],
+			"to": [8, 15.7, 16],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 15.7, 8]},
+			"faces": {
+				"up": {"uv": [0, 8, 16, 16], "rotation": 270, "texture": "#flower"},
+				"down": {"uv": [0, 7, 16, 16], "rotation": 270, "texture": "#flower"}
+			}
+		},
+		{
+			"from": [0, 15.7, 8],
+			"to": [16, 15.7, 17],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 15.7, 8]},
+			"faces": {
+				"up": {"uv": [0, 8, 16, 16], "rotation": 180, "texture": "#flower"},
+				"down": {"uv": [0, 7, 16, 16], "texture": "#flower"}
+			}
+		},
+		{
+			"from": [8, 15.7, 0],
+			"to": [17, 15.7, 16],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 15.7, 8]},
+			"faces": {
+				"up": {"uv": [0, 8, 16, 16], "rotation": 90, "texture": "#flower"},
+				"down": {"uv": [0, 7, 16, 16], "rotation": 90, "texture": "#flower"}
+			}
+		}
+	]
+}
