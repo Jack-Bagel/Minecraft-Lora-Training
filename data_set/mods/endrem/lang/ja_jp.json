@@ -1,0 +1,115 @@
+{
+  "item.endrem.old_eye": "オールドアイ",
+  "item.endrem.old_eye.description": "§7§o伝説によれば、この眼はかつて巨大なサンドウォームのものだった",
+
+  "item.endrem.rogue_eye": "ローグアイ",
+  "item.endrem.rogue_eye.description": "§7§oこの眼はかつての我々の祖先にレッドストーンの知識を与えたと信じられている",
+
+  "item.endrem.nether_eye": "ネザーアイ",
+  "item.endrem.nether_eye.description": "§7§oかつてのエーテルとネザーの大戦で悪魔に奪われたもの",
+
+  "item.endrem.cold_eye": "コールドアイ",
+  "item.endrem.cold_eye.description": "§7§oこの世界から突然消え去った氷使いが遺したもののひとつ",
+
+  "item.endrem.magical_eye": "マジカルアイ",
+  "item.endrem.magical_eye.description": "§7§oこの眼がなければエヴォーカーは力を発揮できない",
+
+  "item.endrem.black_eye": "ブラックアイ",
+  "item.endrem.black_eye.description": "§7§o海賊によれば伝説の黒真珠を見つけることができるものらしい",
+
+  "item.endrem.lost_eye": "ロストアイ",
+  "item.endrem.lost_eye.description": "§7§o始祖たる鍛冶師によって鍛えられたものだと伝えられている",
+
+  "item.endrem.wither_eye": "ウィザーアイ",
+  "item.endrem.wither_eye.description": "§7§oあなたのものが消滅するのも目にしたかもしれないこの眼は、あらゆる破壊の証人だ",
+
+  "item.endrem.guardian_eye": "ガーディアンアイ",
+  "item.endrem.guardian_eye.description": "§7§o多くの戦士が海の底に引きずり込まれるのを見てきた眼",
+
+  "item.endrem.cursed_eye": "カーズアイ",
+  "item.endrem.cursed_eye.description": "§7§o強力だが破壊的な遺物。かつてピグリンたちは命を賭してこれを守ることを誓った",
+
+  "item.endrem.exotic_eye": "エキゾティックアイ",
+  "item.endrem.exotic_eye.description": "§7§oこの眼を追った者は偉大なるアトランティスに辿り着いたか、あるいは迷い道を失ったとか",
+
+  "item.endrem.evil_eye": "イビルアイ",
+  "item.endrem.evil_eye.description": "§7§o持ち主を不幸から守ると言われる聖なる御守り",
+
+  "item.endrem.undead_eye": "アンデッドアイ",
+  "item.endrem.undead_eye.description": "§7§o死中に活を得る前世の追憶",
+
+  "item.endrem.cryptic_eye": "クリプティックアイ",
+  "item.endrem.cryptic_eye.description": "§7§o§khttps://www.youtube.com/watch?v=dQw4w9WgXcQ",
+
+  "item.endrem.corrupted_eye": "コラプトアイ",
+  "item.endrem.corrupted_eye.description": "§7§o強欲さ故に孤独な生涯を送った王の眼。伝説によれば、持ち主に無限の幸運をもたらす",
+
+  "item.endrem.witch_eye": "ウィッチアイ",
+  "item.endrem.witch_eye.description": "§7§o古代の醸造レシピを目にしていると信じられている眼",
+  "item.endrem.witch_pupil": "魔女の瞳",
+
+  "item.endrem.undead_soul": "アンデッドソウル",
+
+  "block.endrem.ancient_portal_frame": "古代のポータルフレーム",
+
+  "block.endrem.ender_eye.warning": "この眼は使用できない",
+  "block.endrem.custom_eye.place": "この眼は配置済みだ",
+  "block.endrem.custom_eye.frame_has_eye": "このフレームは既に眼がはめ込まれている",
+
+
+  "itemGroup.endrem.endrem_tab": "End Remastered",
+
+  "block.portal_open_sound": "ポータルが開く",
+  "block.portal_open_sound.sub": "ポータルが開く",
+
+  "advancements.main.root.title": "冒険の始まり",
+  "advancements.main.root.description": "初めて眼を手に入れる",
+
+  "advancements.main.old_eye.title": "幸運の探求者",
+  "advancements.main.old_eye.description": "オールドアイを手に入れる",
+
+  "advancements.main.rogue_eye.title": "ジャングルへようこそ",
+  "advancements.main.rogue_eye.description": "ローグアイを手に入れる",
+
+  "advancements.main.nether_eye.title": "絶望を見つめて",
+  "advancements.main.nether_eye.description": "ネザーアイを手に入れる",
+
+  "advancements.main.cold_eye.title": "素敵な目玉",
+  "advancements.main.cold_eye.description": "コールドアイを手に入れる",
+
+  "advancements.main.corrupted_eye.title": "エメラルドで覆って", "%%%%%%Comment%%%%%%": "金のシャワーの方がしっくりくるけど...",
+  "advancements.main.corrupted_eye.description": "コラプトアイを手に入れる",
+
+  "advancements.main.magical_eye.title": "堕ちた魔術師",
+  "advancements.main.magical_eye.description": "マジカルアイを手に入れる",
+
+  "advancements.main.black_eye.title": "ウガーッ！、オデの船はドコ？",
+  "advancements.main.black_eye.description": "ブラックアイを手に入れる",
+
+  "advancements.main.lost_eye.title": "地図が必要？",
+  "advancements.main.lost_eye.description": "ロストアイを手に入れる",
+
+  "advancements.main.wither_eye.title": "枯れ落ち、朽ち果てる。あなたが望むまずとも",
+  "advancements.main.wither_eye.description": "ウィザーアイを手に入れる",
+
+  "advancements.main.guardian_eye.title": "神殿を護るのは誰?",
+  "advancements.main.guardian_eye.description": "ガーディアンアイを手に入れる",
+
+  "advancements.main.cursed_eye.title": "新たなる守護者...",
+  "advancements.main.cursed_eye.description": "カーズアイを手に入れる",
+
+  "advancements.main.witch_eye.title": "トリック オア トリート？",
+  "advancements.main.witch_eye.description": "ウィッチアイを手に入れる",
+
+  "advancements.main.evil_eye.title": "真なる祝福",
+  "advancements.main.evil_eye.description": "イビルアイを手に入れる",
+
+  "advancements.main.exotic_eye.title": "アトランティスはどこ？",
+  "advancements.main.exotic_eye.description": "エキゾティックアイを手に入れる",
+
+  "advancements.main.undead_eye.title": "魂の鏡",
+  "advancements.main.undead_eye.description": "アンデッドアイを手に入れる",
+
+  "advancements.main.cryptic_eye.title": "忍耐は知恵への道",
+  "advancements.main.cryptic_eye.description": "クリプティックアイを手に入れる"
+}

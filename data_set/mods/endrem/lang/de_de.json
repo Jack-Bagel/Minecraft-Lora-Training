@@ -1,0 +1,81 @@
+{
+  "item.endrem.old_eye": "Altes Auge",
+  "item.endrem.old_eye.description": "Legenden sagen, dieses Auge gehörte einst einem der gewaltigen Sandwürmer...",
+
+  "item.endrem.rogue_eye": "Abtrünniges Auge",
+  "item.endrem.rogue_eye.description": "Man sagt, dieses Auge gab unseren Vorfahren das Wunder von Redstone",
+
+  "item.endrem.nether_eye": "Nether Auge",
+  "item.endrem.nether_eye.description": "Verloren von einem Dämon, beim Uralten Kampf zwischen Äther und Nether",
+
+  "item.endrem.cold_eye": "Eiskaltes Auge",
+  "item.endrem.cold_eye.description": "Eines der letzten Artefakte der Eiswanderer, bevor sie für immer verschwunden sind...",
+
+  "item.endrem.magical_eye": "Magisches Auge",
+  "item.endrem.magical_eye.description": "Ohne dieses Auge haben die Beschwörer keine Macht",
+
+  "item.endrem.black_eye": "Schwarzes Auge",
+  "item.endrem.black_eye.description": "Piraten sagen, dies gab die Sicht des Schwarzen Auges",
+
+  "item.endrem.lost_eye": "Verlorenes Auge",
+  "item.endrem.lost_eye.description": "Man sagt, es wurde von den ersten Schmieden der Geschichte gefertigt",
+
+  "item.endrem.wither_eye": "Wither Auge",
+  "item.endrem.wither_eye.description": "Hat die totale Vernichtung erlebt. Vielleicht auch, wie dein Zeug verschwunden ist",
+
+  "item.endrem.guardian_eye": "Wächter Auge",
+  "item.endrem.guardian_eye.description": "Es sah viele Krieger in den tiefen des Ozeans ertrinken",
+
+  "item.endrem.corrupted_eye": "Verdorbenes Auge",
+  "item.endrem.corrupted_eye.description": "Das Auge eines gierigen Königs, welcher in Einsamkeit versank. Legenden sagen, es gewährt endloses Glück",
+
+  "item.endrem.witch_eye": "Hexen Auge",
+  "item.endrem.witch_eye.description": "Man sagt, diese Pupille sah die ältesten, verlorenen Braurezepte der Geschichte",
+
+  "item.endrem.witch_pupil": "Hexenpupille",
+
+
+  "block.endrem.ancient_portal_frame": "Uralter Portalrahmen",
+
+  "itemGroup.endremTab": "End Remastered",
+
+  "block.portal_open_sound": "Portal öffnet",
+  "block.portal_open_sound.sub": "Portal öffnet",
+
+  "advancements.main.root.title": "Der Beginn eines Abenteuers",
+  "advancements.main.root.description": "Finde dein erstes Auge",
+
+  "advancements.main.old_eye.title": "Glückssucher",
+  "advancements.main.old_eye.description": "Finde ein Altes Auge",
+
+  "advancements.main.rogue_eye.title": "Willkommen im Dschungel",
+  "advancements.main.rogue_eye.description": "Finde ein Abtrünniges Auge",
+
+  "advancements.main.nether_eye.title": "Starre in die Verzweiflung",
+  "advancements.main.nether_eye.description": "Finde ein Nether Auge",
+
+  "advancements.main.cold_eye.title": "Ein N-eis-er Anblick",
+  "advancements.main.cold_eye.description": "Finde ein Eiskaltes Auge",
+
+  "advancements.main.corrupted_eye.title": "Bedeck mich mit Schätzen!", "%%%%%%Comment%%%%%%": "Goldene Dusche triffts besser, aber egal...",
+  "advancements.main.corrupted_eye.description": "Finde ein Verdorbenes Auge",
+
+  "advancements.main.magical_eye.title": "Gefallener Zauberer",
+  "advancements.main.magical_eye.description": "Finde ein Magisches Auge",
+
+  "advancements.main.black_eye.title": "Arghh, Wo ist mein Schiff?",
+  "advancements.main.black_eye.description": "Finde ein Schwarzes Auge",
+
+  "advancements.main.lost_eye.title": "Brauchste ne Karte?",
+  "advancements.main.lost_eye.description": "Finde ein Verlorenes Auge",
+
+  "advancements.main.wither_eye.title": "Untoter Schatz",
+  "advancements.main.wither_eye.description": "Finde ein Wither Auge",
+
+  "advancements.main.guardian_eye.title": "Wer bewacht den Tempel jetzt?",
+  "advancements.main.guardian_eye.description": "Finde ein Wächter Auge",
+
+  "advancements.main.witch_eye.title": "Süßes oder Saures?",
+  "advancements.main.witch_eye.description": "Finde ein Hexen Auge"
+
+}
