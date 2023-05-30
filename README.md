@@ -42,7 +42,7 @@ When creating descriptions, the key objective is to ensure that the AI understan
 
 # To the Authors of the different assets
 If you are the author of certain assets used in training the AI and would like them to be removed, please reach out to me via Discord (Jack Bagel#5043) or open an issue specifying your request to have your assets removed from the dataset. I will promptly delete any models that utilized your assets and create new ones accordingly.
-#Credits
+# Credits
 Here is a list of all the mods and assets I used for training this model, along with their respective licenses:
 
 Druidcraft (GNU Lesser General Public License)
