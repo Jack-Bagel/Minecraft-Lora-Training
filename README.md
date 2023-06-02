@@ -7,7 +7,7 @@ Here are some tutorials to help you out:
 
 How to Install & Use Stable Diffusion on Windows: https://youtu.be/onmqbI5XPH8
 
-Once you arrive at the "Download model / checkpoint" section of the video, make sure you download and use stable diffusion V2.1 model: https://huggingface.co/stabilityai/stable-diffusion-2-1
+Once you arrive at the "Download model / checkpoint" section of the video, make sure you download and use stable diffusion V2.1 model: [https://huggingface.co/stabilityai/stable-diffusion-2-1](https://huggingface.co/stabilityai/stable-diffusion-2-1-base/blob/main/v2-1_512-ema-pruned.ckpt)
 
 This is what is based my LoRA model on, if you don't use this specific model, the LoRA won't work!
 
