@@ -1,8 +1,0 @@
-{
-  "parent": "botania:block/shapes/wall_side_tall",
-  "textures": {
-    "bottom": "botania:block/polished_livingrock",
-    "top": "botania:block/polished_livingrock",
-    "wall": "botania:block/polished_livingrock"
-  }
-}

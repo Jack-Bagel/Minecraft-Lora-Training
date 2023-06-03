@@ -1,6 +1,0 @@
-{
-	"parent": "betternether:block/chest_item",
-    "textures": {
-        "texture": "betternether:entity/chest/anchor_tree_chest"
-    }
-}

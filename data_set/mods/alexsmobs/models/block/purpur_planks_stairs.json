@@ -1,8 +1,0 @@
-{
-  "parent": "block/stairs",
-  "textures": {
-    "bottom": "alexsmobs:block/purpur_planks",
-    "top": "alexsmobs:block/purpur_planks",
-    "side": "alexsmobs:block/purpur_planks"
-  }
-}

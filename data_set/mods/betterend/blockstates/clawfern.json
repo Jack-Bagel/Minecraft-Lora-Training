@@ -1,8 +1,0 @@
-{
-	"variants": {
-		"": [
-			{ "model": "betterend:block/clawfern_01" },
-			{ "model": "betterend:block/clawfern_02" }
-		]
-	}
-}

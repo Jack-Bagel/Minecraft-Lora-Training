@@ -1,8 +1,0 @@
-{
-	"parent": "betterend:block/lit_stairs",
-	"textures": {
-		"bottom": "betterend:block/smaragdant_crystal_top",
-		"top": "betterend:block/smaragdant_crystal_top",
-		"side": "betterend:block/smaragdant_crystal_side"
-	}
-}

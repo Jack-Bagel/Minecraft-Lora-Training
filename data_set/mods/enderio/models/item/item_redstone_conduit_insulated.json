@@ -1,6 +1,0 @@
-{
-    "parent": "enderio:item/item_conduit_base_3",
-    "textures": {        
-        "all": "enderio:blocks/conduit_core_0"
-    }
-}

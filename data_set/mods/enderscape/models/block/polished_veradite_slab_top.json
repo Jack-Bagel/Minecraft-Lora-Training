@@ -1,8 +1,0 @@
-{
-	"parent": "minecraft:block/slab_top",
-	"textures": {
-		"bottom": "enderscape:block/polished_veradite",
-		"top": "enderscape:block/polished_veradite",
-		"side": "enderscape:block/polished_veradite"
-	}
-}

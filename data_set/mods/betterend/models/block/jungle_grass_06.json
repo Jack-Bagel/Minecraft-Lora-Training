@@ -1,6 +1,0 @@
-{
-    "parent": "betterend:block/crop_block",
-    "textures": {
-        "texture": "betterend:block/jungle_grass_2"
-    }
-}

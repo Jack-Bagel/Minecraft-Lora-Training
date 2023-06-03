@@ -1,6 +1,0 @@
-{
-	"parent": "betterend:block/wall_moss_02",
-	"textures": {
-		"texture": "betterend:block/tail_moss"
-	}
-}

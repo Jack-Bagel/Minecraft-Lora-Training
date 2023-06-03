@@ -1,6 +1,0 @@
-{
-  "parent": "quark:block/stool",
-  "textures": {
-    "main": "quark:block/gray_stool"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "reliquary:item/default_weapon_item",
-  "textures": {
-    "layer0": "reliquary:item/pyromancer_staff"
-  }
-}

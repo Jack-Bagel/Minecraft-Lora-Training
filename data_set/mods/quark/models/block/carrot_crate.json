@@ -1,8 +1,0 @@
-{
-    "parent": "block/cube_bottom_top",
-    "textures": {
-        "top": "quark:block/carrot_crate_top",
-        "bottom": "quark:block/carrot_crate_bottom",
-        "side": "quark:block/carrot_crate"
-    }
-}

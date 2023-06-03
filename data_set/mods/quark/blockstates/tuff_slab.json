@@ -1,7 +1,0 @@
-{
-    "variants": {
-        "type=bottom": { "model": "quark:block/tuff_slab" },
-        "type=top": { "model": "quark:block/tuff_slab_top" },
-        "type=double": { "model": "minecraft:block/tuff" }
-    }
-}

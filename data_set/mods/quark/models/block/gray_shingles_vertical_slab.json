@@ -1,8 +1,0 @@
-{
-    "parent": "quark:block/vertical_slab",
-    "textures": {
-        "bottom": "quark:block/gray_shingles",
-        "top": "quark:block/gray_shingles",
-        "side": "quark:block/gray_shingles"
-    }
-}

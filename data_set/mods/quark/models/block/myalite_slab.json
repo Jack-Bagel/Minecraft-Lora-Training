@@ -1,8 +1,0 @@
-{
-    "parent": "quark:block/slab_tinted",
-    "textures": {
-        "bottom": "quark:block/myalite",
-        "top": "quark:block/myalite",
-        "side": "quark:block/myalite"
-    }
-}

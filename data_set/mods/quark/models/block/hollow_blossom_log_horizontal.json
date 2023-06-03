@@ -1,8 +1,0 @@
-{
-	"parent": "quark:block/hollow_log_horizontal",
-	"textures": {
-		"end": "quark:block/blossom_log_top",
-		"side": "quark:block/blossom_log",
-		"inside": "quark:block/stripped_blossom_log"
-	}
-}

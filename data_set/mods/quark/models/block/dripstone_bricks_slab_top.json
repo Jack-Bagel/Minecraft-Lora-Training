@@ -1,8 +1,0 @@
-{
-    "parent": "block/slab_top",
-    "textures": {
-        "bottom": "quark:block/dripstone_bricks",
-        "top": "quark:block/dripstone_bricks",
-        "side": "quark:block/dripstone_bricks"
-    }
-}

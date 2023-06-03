@@ -1,6 +1,0 @@
-{
-    "parent": "block/cross",
-    "textures": {
-        "cross": "quark:block/orange_blossom_sapling"
-    }
-}

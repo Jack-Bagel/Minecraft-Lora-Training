@@ -1,9 +1,0 @@
-{
-	"variants": {
-		"": [
-			{ "model": "quark:block/chorus_weed0" },
-			{ "model": "quark:block/chorus_weed1" },
-			{ "model": "quark:block/chorus_weed2" }
-		]
-	}
-}

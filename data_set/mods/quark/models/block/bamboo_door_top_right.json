@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/door_top_right",
-  "textures": {
-    "top": "quark:block/bamboo_door_top",
-    "bottom": "quark:block/bamboo_door_bottom"
-  }
-}

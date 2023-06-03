@@ -1,6 +1,0 @@
-{
-    "parent": "block/cross",
-    "textures": {
-        "cross": "betterend:block/chorus_mushroom_potted"
-    }
-}

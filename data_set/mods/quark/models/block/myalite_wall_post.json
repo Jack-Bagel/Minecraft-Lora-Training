@@ -1,6 +1,0 @@
-{
-    "parent": "quark:block/wall_post_tinted",
-    "textures": {
-        "wall": "quark:block/myalite"
-    }
-}

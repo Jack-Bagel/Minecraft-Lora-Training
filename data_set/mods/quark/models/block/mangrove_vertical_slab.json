@@ -1,8 +1,0 @@
-{
-    "parent": "quark:block/vertical_slab",
-    "textures": {
-        "bottom": "block/mangrove_planks",
-        "top": "block/mangrove_planks",
-        "side": "block/mangrove_planks"
-    }
-}

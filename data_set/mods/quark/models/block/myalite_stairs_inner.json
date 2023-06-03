@@ -1,8 +1,0 @@
-{
-    "parent": "quark:block/inner_stairs_tinted",
-    "textures": {
-        "bottom": "quark:block/myalite",
-        "top": "quark:block/myalite",
-        "side": "quark:block/myalite"
-    }
-}

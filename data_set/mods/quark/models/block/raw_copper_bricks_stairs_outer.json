@@ -1,8 +1,0 @@
-{
-    "parent": "block/outer_stairs",
-    "textures": {
-        "bottom": "quark:block/raw_copper_bricks",
-        "top": "quark:block/raw_copper_bricks",
-        "side": "quark:block/raw_copper_bricks"
-    }
-}

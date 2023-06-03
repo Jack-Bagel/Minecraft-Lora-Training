@@ -1,6 +1,0 @@
-{
-  "parent": "alexsmobs:block/template_two_caiman_eggs",
-  "textures": {
-    "0": "alexsmobs:block/caiman_eggs_slightly_cracked"
-  }
-}

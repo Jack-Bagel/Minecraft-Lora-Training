@@ -1,6 +1,0 @@
-{
-	"parent": "block/cube_all",
-	"textures": {
-		"all": "quark:block/ender_watcher_on"
-	}
-}

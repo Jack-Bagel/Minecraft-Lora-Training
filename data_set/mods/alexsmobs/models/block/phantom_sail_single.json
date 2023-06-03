@@ -1,8 +1,0 @@
-{
-    "parent": "alexsmobs:block/sail",
-    "textures": {
-        "sail": "alexsmobs:block/phantom_sail_single",
-        "bottom" : "alexsmobs:block/sail_bottom",
-        "top" : "alexsmobs:block/phantom_sail_single"
-    }
-}

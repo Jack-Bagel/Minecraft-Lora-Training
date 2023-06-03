@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "botania:block/pattern_framed_dreamwood",
-    "side": "botania:block/framed_dreamwood"
-  }
-}

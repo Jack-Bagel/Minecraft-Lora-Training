@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/door_top",
-  "textures": {
-    "top": "enderscape:block/celestial_door_top",
-    "bottom": "enderscape:block/celestial_door_bottom"
-  }
-}

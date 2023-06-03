@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "big=true": { "model": "quark:block/magenta_big_stool" },
-        "big=false": { "model": "quark:block/magenta_stool" }
-    }
-}

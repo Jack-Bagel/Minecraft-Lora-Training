@@ -1,6 +1,0 @@
-{
-    "parent": "reliquary:block/pedestal",
-    "textures": {
-        "wool": "block/white_wool"
-    }
-}

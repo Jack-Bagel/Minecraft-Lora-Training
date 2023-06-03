@@ -1,8 +1,0 @@
-{
-    "parent": "block/outer_stairs",
-    "textures": {
-        "bottom": "quark:block/bamboo_planks",
-        "top": "quark:block/bamboo_planks",
-        "side": "quark:block/bamboo_planks"
-    }
-}

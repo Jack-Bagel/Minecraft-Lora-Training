@@ -1,8 +1,0 @@
-{
-    "parent": "block/cube_bottom_top",
-    "textures": {
-        "top": "quark:block/crate_open",
-        "bottom": "quark:block/crate",
-        "side": "quark:block/crate"
-    }
-}

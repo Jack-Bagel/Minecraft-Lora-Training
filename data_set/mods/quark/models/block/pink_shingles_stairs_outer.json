@@ -1,8 +1,0 @@
-{
-    "parent": "block/outer_stairs",
-    "textures": {
-        "bottom": "quark:block/pink_shingles",
-        "top": "quark:block/pink_shingles",
-        "side": "quark:block/pink_shingles"
-    }
-}

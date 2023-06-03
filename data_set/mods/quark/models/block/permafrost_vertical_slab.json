@@ -1,8 +1,0 @@
-{
-    "parent": "quark:block/vertical_slab",
-    "textures": {
-        "bottom": "quark:block/permafrost",
-        "top": "quark:block/permafrost",
-        "side": "quark:block/permafrost"
-    }
-}

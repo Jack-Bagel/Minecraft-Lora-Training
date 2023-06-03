@@ -1,6 +1,0 @@
-{
-	"parent": "betterend:block/pedestal_pillar",
-	"textures": {
-		"pillar": "minecraft:block/quartz_pillar"
-	}
-}

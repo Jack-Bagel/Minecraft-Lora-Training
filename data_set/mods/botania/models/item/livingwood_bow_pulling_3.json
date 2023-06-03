@@ -1,6 +1,0 @@
-{
-  "parent": "botania:item/livingwood_bow",
-  "textures": {
-    "layer0": "botania:item/livingwood_bow_pulling_3"
-  }
-}

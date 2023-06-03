@@ -1,7 +1,0 @@
-{
-	"parent": "minecraft:block/cube_column",
-	"textures": {
-		"end": "enderscape:block/stripped_murushroom_stem",
-		"side": "enderscape:block/stripped_murushroom_stem"
-	}
-}

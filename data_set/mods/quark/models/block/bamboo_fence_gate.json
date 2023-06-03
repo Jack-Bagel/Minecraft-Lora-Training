@@ -1,7 +1,0 @@
-{
-  "parent": "quark:block/template/custom_fence_gate",
-  "textures": {
-    "particle": "quark:block/bamboo_fence_gate_particle",
-    "texture": "quark:block/bamboo_fence_gate"
-  }
-}

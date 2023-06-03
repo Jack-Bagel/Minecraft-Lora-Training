@@ -1,8 +1,0 @@
-{
-    "parent": "betternether:block/stalagnate_trunk",
-	"textures":
-	{
-        "side": "betternether:block/nether_mushroom_stem_side",
-        "top": "betternether:block/nether_mushroom_stem_top"
-    }
-}

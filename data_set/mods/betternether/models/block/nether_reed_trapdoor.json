@@ -1,7 +1,0 @@
-{
-    "parent": "betternether:block/stalagnate_trapdoor",
-    "textures": {
-        "texture": "betternether:block/nether_reed_trapdoor",
-        "particle": "betternether:block/nether_reed_trapdoor"
-    }
-}

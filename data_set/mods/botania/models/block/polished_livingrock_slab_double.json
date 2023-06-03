@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "botania:block/polished_livingrock",
-    "side": "botania:block/polished_livingrock_slab"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "botania:block/shapes/wall_side",
-  "textures": {
-    "bottom": "botania:block/stripped_livingwood_log",
-    "top": "botania:block/stripped_livingwood_log",
-    "wall": "botania:block/stripped_livingwood_log"
-  }
-}

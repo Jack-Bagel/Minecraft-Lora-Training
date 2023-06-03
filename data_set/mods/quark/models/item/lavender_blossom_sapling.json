@@ -1,6 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "quark:block/lavender_blossom_sapling"
-    }
-}

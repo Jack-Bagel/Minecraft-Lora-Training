@@ -1,6 +1,0 @@
-{
-	"parent": "betterend:block/cross_no_distortion",
-	"textures": {
-		"texture": "betterend:block/twisted_vine"
-	}
-}

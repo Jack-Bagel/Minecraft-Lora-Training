@@ -1,6 +1,0 @@
-{
-	"parent": "betterend:block/cube_noshade",
-	"textures": {
-		"texture": "betterend:block/blue_vine_lantern"
-	}
-}

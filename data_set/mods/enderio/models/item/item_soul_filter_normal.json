@@ -1,6 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "enderio:items/item_soul_filter_normal"
-    }
-}

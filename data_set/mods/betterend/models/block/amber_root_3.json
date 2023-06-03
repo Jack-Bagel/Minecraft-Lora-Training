@@ -1,6 +1,0 @@
-{
-    "parent": "betterend:block/crop_block_inverted",
-    "textures": {
-        "texture": "betterend:block/amber_root_1"
-    }
-}

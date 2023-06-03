@@ -1,6 +1,0 @@
-{
-  "parent": "alexsmobs:block/bird_feeder_hanging",
-  "textures": {
-    "texture": "alexsmobs:block/bird_feeder_empty"
-  }
-}

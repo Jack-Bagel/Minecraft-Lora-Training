@@ -1,6 +1,0 @@
-{
-	"parent": "reliquary:block/pedestal_button_off",
-    "textures": {
-        "state": "reliquary:block/pedestal_state_on"
-    }
-}

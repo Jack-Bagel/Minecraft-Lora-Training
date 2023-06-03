@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:block/cross",
-	"textures": {
-		"cross": "enderscape:block/corrupt_growth_middle"
-	}
-}

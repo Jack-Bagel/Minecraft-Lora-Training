@@ -1,8 +1,0 @@
-{
-    "parent": "block/inner_stairs",
-    "textures": {
-        "bottom": "quark:block/dirt_bricks",
-        "top": "quark:block/dirt_bricks",
-        "side": "quark:block/dirt_bricks"
-    }
-}

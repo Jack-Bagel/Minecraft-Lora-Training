@@ -1,8 +1,0 @@
-{
-    "parent": "quark:block/template/item_frame",
-    "textures": {
-        "back": "quark:block/dyed_item_frame",
-        "particle": "block/birch_planks",
-        "wood": "block/birch_planks"
-    }
-}

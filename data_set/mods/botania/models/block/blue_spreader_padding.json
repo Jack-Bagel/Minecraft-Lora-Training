@@ -1,8 +1,0 @@
-{
-  "parent": "botania:block/shapes/spreader_padding",
-  "textures": {
-    "back": "minecraft:block/blue_wool",
-    "front": "minecraft:block/blue_wool",
-    "side": "minecraft:block/blue_wool"
-  }
-}

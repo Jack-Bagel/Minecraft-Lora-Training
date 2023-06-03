@@ -1,6 +1,0 @@
-{
-	"parent": "betterend:block/lit_pedestal_pillar",
-	"textures": {
-		"pillar": "betterend:block/smaragdant_crystal_pillar_side"
-	}
-}

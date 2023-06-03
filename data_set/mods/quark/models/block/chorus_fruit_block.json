@@ -1,7 +1,0 @@
-{
-    "parent": "block/cube_column",
-    "textures": {
-        "end": "quark:block/chorus_fruit_block_top",
-        "side": "quark:block/chorus_fruit_block"
-    }
-}

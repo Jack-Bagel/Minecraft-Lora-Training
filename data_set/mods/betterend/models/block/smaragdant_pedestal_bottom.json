@@ -1,8 +1,0 @@
-{
-	"parent": "betterend:block/lit_pedestal_bottom",
-	"textures": {
-		"base": "betterend:block/smaragdant_crystal_side",
-		"pillar": "betterend:block/smaragdant_crystal_pillar_side",
-		"bottom": "betterend:block/smaragdant_crystal_polished"
-	}
-}

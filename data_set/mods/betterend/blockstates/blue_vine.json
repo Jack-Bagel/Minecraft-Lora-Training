@@ -1,7 +1,0 @@
-{
-	"variants": {
-		"shape=top": { "model": "betterend:block/blue_vine_top" },
-		"shape=middle": { "model": "betterend:block/blue_vine" },
-		"shape=bottom": { "model": "betterend:block/blue_vine_roots" }
-	}
-}

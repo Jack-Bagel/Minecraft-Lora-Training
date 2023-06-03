@@ -1,6 +1,0 @@
-{
-	"variants": {
-		"watched=false": { "model": "quark:block/ender_watcher" },
-		"watched=true": { "model": "quark:block/ender_watcher_on" }
-	}
-}

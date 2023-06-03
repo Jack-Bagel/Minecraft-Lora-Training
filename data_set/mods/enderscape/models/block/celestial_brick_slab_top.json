@@ -1,8 +1,0 @@
-{
-	"parent": "minecraft:block/slab_top",
-	"textures": {
-		"bottom": "enderscape:block/celestial_bricks",
-		"top": "enderscape:block/celestial_bricks",
-		"side": "enderscape:block/celestial_bricks"
-	}
-}

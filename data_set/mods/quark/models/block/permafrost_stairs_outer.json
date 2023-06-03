@@ -1,8 +1,0 @@
-{
-    "parent": "block/outer_stairs",
-    "textures": {
-        "bottom": "quark:block/permafrost",
-        "top": "quark:block/permafrost",
-        "side": "quark:block/permafrost"
-    }
-}

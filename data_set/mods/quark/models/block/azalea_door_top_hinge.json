@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/door_top_rh",
-  "textures": {
-    "top": "quark:block/azalea_door_top",
-    "bottom": "quark:block/azalea_door_bottom"
-  }
-}

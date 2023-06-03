@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/block",
-  "flower": {
-    "parent": "botania:block/hyacidus"
-  },
-  "loader": "botania:floating_flower"
-}

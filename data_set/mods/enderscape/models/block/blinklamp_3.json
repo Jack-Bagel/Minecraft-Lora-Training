@@ -1,6 +1,0 @@
-{
-	"parent": "enderscape:block/blinklamp_template",
-	"textures": {
-		"all": "enderscape:block/blinklamp_3"
-	}
-}

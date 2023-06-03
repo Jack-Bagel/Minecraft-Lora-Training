@@ -1,7 +1,0 @@
-{
-    "parent": "block/template_glass_pane_side_alt",
-    "textures": {
-        "edge": "quark:block/white_corundum",
-        "pane": "quark:block/white_corundum"
-    }
-}

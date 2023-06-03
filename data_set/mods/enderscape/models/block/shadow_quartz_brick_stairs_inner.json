@@ -1,8 +1,0 @@
-{
-	"parent": "minecraft:block/inner_stairs",
-	"textures": {
-		"bottom": "enderscape:block/shadow_quartz_bricks",
-		"top": "enderscape:block/shadow_quartz_bricks",
-		"side": "enderscape:block/shadow_quartz_bricks"
-	}
-}

@@ -1,7 +1,0 @@
-{
-    "parent": "block/cube_column",
-    "textures": {
-        "end": "block/mangrove_planks",
-        "side": "quark:block/mangrove_bookshelf"
-    }
-}

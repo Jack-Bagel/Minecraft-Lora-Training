@@ -1,8 +1,0 @@
-{
-  "parent": "botania:block/shapes/wall_post",
-  "textures": {
-    "bottom": "botania:block/dreamwood_log",
-    "top": "botania:block/dreamwood_log",
-    "wall": "botania:block/dreamwood_log"
-  }
-}

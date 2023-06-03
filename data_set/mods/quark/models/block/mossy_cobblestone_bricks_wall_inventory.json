@@ -1,6 +1,0 @@
-{
-    "parent": "block/wall_inventory",
-    "textures": {
-        "wall": "quark:block/mossy_cobblestone_bricks"
-    }
-}

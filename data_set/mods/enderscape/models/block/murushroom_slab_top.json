@@ -1,8 +1,0 @@
-{
-	"parent": "minecraft:block/slab_top",
-	"textures": {
-		"bottom": "enderscape:block/murushroom_planks",
-		"top": "enderscape:block/murushroom_planks",
-		"side": "enderscape:block/murushroom_planks"
-	}
-}

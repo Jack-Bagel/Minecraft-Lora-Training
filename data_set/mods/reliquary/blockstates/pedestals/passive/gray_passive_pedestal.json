@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=north": {"model": "reliquary:block/pedestals/passive/gray_passive_pedestal"},
-        "facing=east": {"model": "reliquary:block/pedestals/passive/gray_passive_pedestal", "y": 90},
-        "facing=south": {"model": "reliquary:block/pedestals/passive/gray_passive_pedestal", "y": 180},
-        "facing=west": {"model": "reliquary:block/pedestals/passive/gray_passive_pedestal", "y": 270}
-    }
-}
