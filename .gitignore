@@ -1,0 +1,4 @@
+config/*
+log/*
+model/sample/*
+model/*Block*.safetensors
